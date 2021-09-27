@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg43"
+   width="1066.6667"
+   height="43625.332"
+   viewBox="0 0 1066.6667 43625.332"
+   sodipodi:docname="toa.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="toa.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs47">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter153993"
+       x="-0.43000857"
+       y="-0.071320944"
+       width="1.8600172"
+       height="1.1427996">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(207,49,136)"
+         result="flood"
+         id="feFlood153983" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite153985" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur153987" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset153989" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite153991" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter154005"
+       x="-0.15262974"
+       y="-0.095513028"
+       width="1.3052729"
+       height="1.191137">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(207,49,136)"
+         result="flood"
+         id="feFlood153995" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite153997" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur153999" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset154001" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite154003" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter154017"
+       x="-0.13496145"
+       y="-0.097764573"
+       width="1.2588206"
+       height="1.1955288">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(207,49,136)"
+         result="flood"
+         id="feFlood154007" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite154009" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur154011" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset154013" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite154015" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter154029"
+       x="-0.1024217"
+       y="-0.094262532"
+       width="1.2052694"
+       height="1.1884992">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(207,49,136)"
+         result="flood"
+         id="feFlood154019" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite154021" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur154023" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset154025" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite154027" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter154041"
+       x="-0.11076455"
+       y="-0.078839978"
+       width="1.2214433"
+       height="1.1576802">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(207,49,136)"
+         result="flood"
+         id="feFlood154031" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite154033" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur154035" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset154037" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite154039" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter154053"
+       x="-0.13557113"
+       y="-0.080961598"
+       width="1.2719812"
+       height="1.1622188">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(207,49,136)"
+         result="flood"
+         id="feFlood154043" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite154045" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur154047" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset154049" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite154051" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter157097"
+       x="-0.010705414"
+       y="-0.029645691"
+       width="1.0214108"
+       height="1.0592914">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(208,53,134)"
+         result="flood"
+         id="feFlood157087" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite157089" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3.5"
+         result="blur"
+         id="feGaussianBlur157091" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset157093" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite157095" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.75024143"
+     inkscape:cx="507.17007"
+     inkscape:cy="39930.479"
+     inkscape:window-width="1888"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g49"
+     inkscape:snap-global="false"
+     inkscape:object-paths="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g49">
+    <image
+       width="1066.6667"
+       height="43625.332"
+       preserveAspectRatio="none"
+       xlink:href="blank.png"
+       id="image51"
+       sodipodi:insensitive="true" />
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="293.71796"
+       y="1389.1282"
+       id="text1891"><tspan
+         sodipodi:role="line"
+         x="293.71796"
+         y="1389.1282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan32145">-RÉA JỈAQ-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="293.71796"
+       y="1485.1282"
+       id="text35291"><tspan
+         sodipodi:role="line"
+         x="293.71796"
+         y="1485.1282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan35289">PÓ BAQ ỈOMA</tspan><tspan
+         sodipodi:role="line"
+         x="293.71796"
+         y="1559.4539"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan35939">GA BỦAIJIO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:58.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="375.42203"
+       y="10253.126"
+       id="text1891-1"><tspan
+         sodipodi:role="line"
+         x="375.42203"
+         y="10253.126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.6667px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan32145-5">-RỦAI JỎAQ-</tspan><tspan
+         sodipodi:role="line"
+         x="375.42203"
+         y="10321.258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.6667px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan53829">ỈOMA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:69.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="375.42203"
+       y="10175.126"
+       id="text35291-9"><tspan
+         sodipodi:role="line"
+         x="375.42203"
+         y="10175.126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan35939-9">MÍ BẺLEROSA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:58.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="308.97391"
+       y="12884.792"
+       id="text1891-1-0"><tspan
+         sodipodi:role="line"
+         x="308.97391"
+         y="12884.792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.6667px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan53829-1">-MẢJIPOQ-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:69.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="308.97391"
+       y="12806.792"
+       id="text35291-9-7"><tspan
+         sodipodi:role="line"
+         x="308.97391"
+         y="12806.792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan35939-9-7">MÍ MẢLORI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="358.63739"
+       y="7582.5884"
+       id="text5847"><tspan
+         sodipodi:role="line"
+         x="358.63739"
+         y="7582.5884"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan21485">Lủı shỏ</tspan><tspan
+         sodipodi:role="line"
+         x="358.63739"
+         y="7626.6113"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan14563">mủaq tuq</tspan><tspan
+         sodipodi:role="line"
+         x="358.63739"
+         y="7670.6343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan68652">pảı gäq hó</tspan><tspan
+         sodipodi:role="line"
+         x="358.63739"
+         y="7714.6572"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan68656">súq ní.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="857.26703"
+       y="12996.552"
+       id="text5847-3"><tspan
+         sodipodi:role="line"
+         x="857.26703"
+         y="12996.552"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan14565-5">Jẻo sôıtaı</tspan><tspan
+         sodipodi:role="line"
+         x="857.26703"
+         y="13045.654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan45558">súq jí rào ní</tspan><tspan
+         sodipodi:role="line"
+         x="857.26703"
+         y="13094.757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan45560">gủo, keo—</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';letter-spacing:4.5px;stroke-width:1"
+       x="547.82019"
+       y="25046.828"
+       id="text5847-3-6"><tspan
+         sodipodi:role="line"
+         x="550.07019"
+         y="25046.828"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan173460">....</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="563.78925"
+       y="40250.625"
+       id="text5847-1"><tspan
+         sodipodi:role="line"
+         x="563.78925"
+         y="40250.625"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+         id="tspan14565-0">Mả jỉa</tspan><tspan
+         sodipodi:role="line"
+         x="563.78925"
+         y="40287.875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+         id="tspan56497">mỏeroe</tspan><tspan
+         sodipodi:role="line"
+         x="563.78925"
+         y="40325.125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+         id="tspan80461">nháo</tspan><tspan
+         sodipodi:role="line"
+         x="563.78925"
+         y="40362.375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+         id="tspan270144">moq?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1.5;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="533.53333"
+       y="43198.598"
+       id="text5847-1-9"><tspan
+         sodipodi:role="line"
+         x="533.53333"
+         y="43198.598"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#2f292b;fill-opacity:1;stroke-width:1"
+         id="tspan174936"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick'"
+   id="tspan10896">Fỉeq:</tspan> mí Color-Les</tspan><tspan
+         sodipodi:role="line"
+         x="533.53333"
+         y="43266.477"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#2f292b;fill-opacity:1;stroke-width:1"
+         id="tspan174932"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick'"
+   id="tspan35198">Tủa nỏ Tỏaqzu:</tspan> mí Sẻoqrea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="369.76144"
+       y="39739.914"
+       id="text56907"><tspan
+         sodipodi:role="line"
+         x="369.76144"
+         y="39739.914"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+         id="tspan56905">Nỉqguo nủ</tspan><tspan
+         sodipodi:role="line"
+         x="369.76144"
+         y="39777.164"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+         id="tspan68533">jóaq mảy, je</tspan><tspan
+         sodipodi:role="line"
+         x="369.76144"
+         y="39814.414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+         id="tspan247476">dỉaq câ pỉy</tspan><tspan
+         sodipodi:role="line"
+         x="369.76144"
+         y="39851.664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+         id="tspan264992">sa pỏ ní lỉq</tspan><tspan
+         sodipodi:role="line"
+         x="369.76144"
+         y="39888.914"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+         id="tspan264994">nháo…</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:85.3333px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter, Normal';letter-spacing:0px;word-spacing:-10px;fill:#2f292b;fill-opacity:1;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+       x="531.2854"
+       y="42999.109"
+       id="text1131"><tspan
+         sodipodi:role="line"
+         id="tspan1129"
+         x="531.2854"
+         y="42999.109"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;font-family:Vinque;-inkscape-font-specification:Vinque;text-align:center;text-anchor:middle;fill:#2f292b;fill-opacity:1;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0">Májıpoq <tspan
+   style="text-align:center;text-anchor:middle;fill:#f94b4d;fill-opacity:1;stroke:#2f292b;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+   id="tspan16330"
+   dy="0">roı</tspan> Rúaı Ỉoma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.6667px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="532.60254"
+       y="18948.314"
+       id="text56907-3"><tspan
+         sodipodi:role="line"
+         x="532.60254"
+         y="18948.314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan86103">Jỉa pỏ jí</tspan><tspan
+         sodipodi:role="line"
+         x="532.60254"
+         y="19008.959"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan86105">súq nha!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="782.50995"
+       y="15075.977"
+       id="text56907-3-4"><tspan
+         sodipodi:role="line"
+         x="782.50995"
+         y="15075.977"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan86105-8">Hỏaı</tspan><tspan
+         sodipodi:role="line"
+         x="782.50995"
+         y="15123.854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan524173">dủq rỉu tỉ</tspan><tspan
+         sodipodi:role="line"
+         x="782.50995"
+         y="15171.732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan524175">jí ní nha!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="177.01706"
+       y="16849.943"
+       id="text5847-3-4"><tspan
+         sodipodi:role="line"
+         x="177.01706"
+         y="16849.943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan45560-3">Nủe jí</tspan><tspan
+         sodipodi:role="line"
+         x="177.01706"
+         y="16893.967"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan537671">súq ráy</tspan><tspan
+         sodipodi:role="line"
+         x="177.01706"
+         y="16937.988"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan537673">ka!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="694.37347"
+       y="17525.312"
+       id="text5847-3-4-6"><tspan
+         sodipodi:role="line"
+         x="694.37347"
+         y="17525.312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan548505">Keo sỏq</tspan><tspan
+         sodipodi:role="line"
+         x="694.37347"
+         y="17569.336"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan556912">ní tuq rảı</tspan><tspan
+         sodipodi:role="line"
+         x="694.37347"
+         y="17613.357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan560566">nûe jí súq</tspan><tspan
+         sodipodi:role="line"
+         x="694.37347"
+         y="17657.381"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan560568">ja da:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="173.72153"
+       y="10926.04"
+       id="text56907-3-6"><tspan
+         sodipodi:role="line"
+         x="173.72153"
+         y="10926.04"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan86105-2">Shảı</tspan><tspan
+         sodipodi:role="line"
+         x="173.72153"
+         y="10973.918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan497241">lẻo sỏı</tspan><tspan
+         sodipodi:role="line"
+         x="173.72153"
+         y="11021.796"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan504247">súq ba!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.6667px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="159.21185"
+       y="12171.271"
+       id="text56907-3-6-9"><tspan
+         sodipodi:role="line"
+         x="159.21185"
+         y="12171.271"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan504247-9">…tảo jí</tspan><tspan
+         sodipodi:role="line"
+         x="159.21185"
+         y="12231.917"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan506669">sıa rảy</tspan><tspan
+         sodipodi:role="line"
+         x="159.21185"
+         y="12292.562"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan518667">nha!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="235.82945"
+       y="28803.049"
+       id="text56907-3-3"><tspan
+         sodipodi:role="line"
+         x="235.82945"
+         y="28803.049"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan86105-7">Je mảıgeq</tspan><tspan
+         sodipodi:role="line"
+         x="235.82945"
+         y="28860.502"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan8094">jí súq rào</tspan><tspan
+         sodipodi:role="line"
+         x="235.82945"
+         y="28917.955"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan51771">sıa!!!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:41.3333px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="507.66974"
+       y="36448.988"
+       id="text56907-3-3-0"><tspan
+         sodipodi:role="line"
+         x="507.66974"
+         y="36448.988"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan63079">Cả hı rảta</tspan><tspan
+         sodipodi:role="line"
+         x="507.66974"
+         y="36498.461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan175141">tâq chỉ dẻaı</tspan><tspan
+         sodipodi:role="line"
+         x="507.66974"
+         y="36547.938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan63083">hó rûaq ja sa</tspan><tspan
+         sodipodi:role="line"
+         x="507.66974"
+         y="36597.41"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan9638">nủ môq?!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:45.3333px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="487.26529"
+       y="35642.156"
+       id="text56907-3-3-0-3"><tspan
+         sodipodi:role="line"
+         x="487.26529"
+         y="35642.156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan440519">Ní rủohuı</tspan><tspan
+         sodipodi:role="line"
+         x="487.26529"
+         y="35696.418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan444133">dẻo bı!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="282.18439"
+       y="27225.857"
+       id="text56907-3-3-5"><tspan
+         sodipodi:role="line"
+         x="282.18439"
+         y="27225.857"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan8094-6">Gủo sa</tspan><tspan
+         sodipodi:role="line"
+         x="282.18439"
+         y="27283.311"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan40915">dủı pủı</tspan><tspan
+         sodipodi:role="line"
+         x="282.18439"
+         y="27340.764"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan40917">chîa kủq</tspan><tspan
+         sodipodi:role="line"
+         x="282.18439"
+         y="27398.219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan50429">jí ní,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:66.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="386.20547"
+       y="25953"
+       id="text56907-3-3-5-2"><tspan
+         sodipodi:role="line"
+         x="386.20547"
+         y="25953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan50429-7">Je—</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:41.3333px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="734.70221"
+       y="36630.395"
+       id="text73761"><tspan
+         sodipodi:role="line"
+         x="734.70221"
+         y="36630.395"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan1376">Dỉaq rỉufa</tspan><tspan
+         sodipodi:role="line"
+         x="734.70221"
+         y="36679.867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan6190">nháo ní pùoq</tspan><tspan
+         sodipodi:role="line"
+         x="734.70221"
+         y="36729.344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan6194">tou tûa fẻı</tspan><tspan
+         sodipodi:role="line"
+         x="734.70221"
+         y="36778.816"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan112865">ja jí da!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="161.2972"
+       y="38440.523"
+       id="text73761-7"><tspan
+         sodipodi:role="line"
+         x="161.2972"
+         y="38440.523"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan64099">Tîo tảocaı</tspan><tspan
+         sodipodi:role="line"
+         x="161.2972"
+         y="38478.824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan138613">ru nỉode nháo</tspan><tspan
+         sodipodi:role="line"
+         x="161.2972"
+         y="38517.129"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan138617">rào tuq gủo</tspan><tspan
+         sodipodi:role="line"
+         x="161.2972"
+         y="38555.43"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan100973">bı, cả róu âı</tspan><tspan
+         sodipodi:role="line"
+         x="161.2972"
+         y="38593.734"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan84171">gảrabıa há—!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="897.242"
+       y="38854.832"
+       id="text368017"><tspan
+         sodipodi:role="line"
+         x="897.242"
+         y="38854.832"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan407030">Je shè chî</tspan><tspan
+         sodipodi:role="line"
+         x="897.242"
+         y="38893.133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan178339">nháo dêq</tspan><tspan
+         sodipodi:role="line"
+         x="897.242"
+         y="38931.438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan184053">fúy tûa mảı</tspan><tspan
+         sodipodi:role="line"
+         x="897.242"
+         y="38969.738"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan181379">ja jí áq bı,</tspan><tspan
+         sodipodi:role="line"
+         x="897.242"
+         y="39008.043"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan195441">mỏınıeq fúy</tspan><tspan
+         sodipodi:role="line"
+         x="897.242"
+         y="39046.344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan419500">da!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="671.49438"
+       y="7710.0537"
+       id="text482092"><tspan
+         sodipodi:role="line"
+         x="671.49438"
+         y="7710.0537"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan482090">Je hảı nỉqguo</tspan><tspan
+         sodipodi:role="line"
+         x="671.49438"
+         y="7754.0767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan483747">shỏ mỉe nháo tì</tspan><tspan
+         sodipodi:role="line"
+         x="671.49438"
+         y="7798.0996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan493701">jóqdoaq da.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="805.52692"
+       y="6256.2632"
+       id="text56907-2"><tspan
+         sodipodi:role="line"
+         x="805.52692"
+         y="6256.2632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan464653">Bỉaq dủahuı</tspan><tspan
+         sodipodi:role="line"
+         x="805.52692"
+         y="6300.2861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan26682">súq pùoq juaq</tspan><tspan
+         sodipodi:role="line"
+         x="805.52692"
+         y="6344.3091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan26684">chî ja dâı sỏıtaı</tspan><tspan
+         sodipodi:role="line"
+         x="805.52692"
+         y="6388.332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan26686">baq shủaınu</tspan><tspan
+         sodipodi:role="line"
+         x="805.52692"
+         y="6432.355"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan474888">ỏcha jí go?</tspan></text>
+    <path
+       id="path155234"
+       style="color:#000000;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1;filter:url(#filter157097)"
+       d="M 458.45312 22560.389 C 457.93006 22560.388 457.42243 22560.408 456.93555 22560.441 C 453.04013 22560.711 449.54843 22561.794 446.35742 22562.988 C 439.97542 22565.378 434.69336 22568.549 434.69336 22568.549 A 8 8 0 0 0 431.89648 22579.512 A 8 8 0 0 0 442.85938 22582.309 C 442.85938 22582.309 447.26091 22579.734 451.9668 22577.973 C 453.99432 22577.214 455.82381 22576.816 457.19922 22576.621 C 456.83435 22577.479 456.41665 22578.503 455.13672 22580.43 C 451.81394 22585.433 445.7986 22592.681 444.23438 22603.025 A 8 8 0 0 0 450.94727 22612.131 A 8 8 0 0 0 460.05273 22605.418 C 460.81876 22600.352 464.57778 22595.136 468.46484 22589.283 C 470.40837 22586.357 472.46585 22583.279 473.42773 22578.98 C 474.38962 22574.682 473.15972 22568.869 469.76367 22565.021 C 466.52534 22561.353 462.11456 22560.391 458.45312 22560.389 z M 784.69336 22589.785 C 784.09463 22589.787 783.53324 22589.798 783.01953 22589.814 L 783.01953 22589.816 C 780.96471 22589.886 779.6582 22590.041 779.6582 22590.041 A 8 8 0 0 0 772.59375 22598.877 A 8 8 0 0 0 781.42969 22605.943 C 781.42969 22605.943 785.20924 22605.567 788.98047 22606.014 C 790.76863 22606.227 792.36046 22606.677 793.28125 22607.088 C 792.29966 22608.536 790.1302 22610.853 787.57812 22613.35 C 782.46399 22618.353 774.93789 22623.244 773.44922 22633.449 A 8 8 0 0 0 780.21094 22642.52 A 8 8 0 0 0 789.2832 22635.762 C 789.2762 22635.812 793.37973 22630.054 798.76562 22624.785 C 801.45857 22622.15 804.2483 22619.432 806.54492 22616.037 C 808.84154 22612.642 811.06176 22607.491 809.13867 22602.004 C 807.53088 22597.418 803.87066 22594.395 800.52148 22592.764 C 797.17231 22591.132 793.87072 22590.486 790.875 22590.129 C 788.62821 22589.861 786.48955 22589.78 784.69336 22589.785 z M 636.28906 22619.828 A 8 8 0 0 0 627.7207 22627.215 C 627.7207 22627.215 623.94554 22677.625 605.08008 22731.143 A 8 8 0 0 0 609.96484 22741.348 A 8 8 0 0 0 620.16992 22736.463 C 623.14971 22728.01 625.72701 22719.672 628.02148 22711.555 C 631.42647 22714.386 635.28246 22717.652 639.4707 22721.426 C 650.33466 22731.213 662.05633 22744.107 664.375 22749.502 A 8 8 0 0 0 674.88281 22753.693 A 8 8 0 0 0 679.07422 22743.186 C 673.95477 22731.274 661.56692 22719.796 650.18164 22709.539 C 645.92598 22705.705 642.33324 22702.74 638.84375 22699.834 C 665.08839 22688.046 680.92593 22675.57 690.38086 22665.23 C 695.81307 22659.29 699.13348 22654.067 701.11523 22650.172 C 703.09699 22646.277 703.875 22643.104 703.875 22643.104 A 8 8 0 0 0 697.7832 22633.568 A 8 8 0 0 0 688.25 22639.662 C 688.25 22639.662 688.1893 22640.295 686.85547 22642.916 C 685.52163 22645.537 683.05012 22649.539 678.57422 22654.434 C 671.0666 22662.643 657.84625 22673.397 634.9043 22684.041 C 641.93675 22651.83 643.67578 22628.396 643.67578 22628.396 A 8 8 0 0 0 636.28906 22619.828 z M 463.40625 22624.451 C 462.56655 22624.44 461.72908 22624.456 460.89453 22624.498 L 460.89453 22624.5 C 449.21091 22625.106 438.09382 22630.924 429.14844 22638.865 C 418.92515 22647.941 411.13222 22660.134 410.28516 22673.547 C 409.36137 22688.174 416.05417 22703.093 425.97461 22714.83 C 435.89505 22726.568 449.6768 22735.667 465.0293 22734.486 C 479.29185 22733.389 489.95067 22722.975 496.80273 22711.059 C 503.6548 22699.142 507.29289 22685.119 506.53711 22672.531 C 505.89037 22661.762 501.33802 22650.855 494.38477 22641.869 C 487.43151 22632.883 477.73915 22625.513 465.93164 22624.568 C 465.08787 22624.501 464.24595 22624.462 463.40625 22624.451 z M 463.25195 22640.461 C 463.72883 22640.462 464.19744 22640.481 464.65625 22640.518 C 470.25331 22640.966 476.66805 22645.118 481.73047 22651.66 C 486.79288 22658.203 490.16653 22666.832 490.56641 22673.49 C 491.07845 22682.018 488.19179 22693.934 482.93164 22703.082 C 477.67149 22712.23 470.62983 22718.008 463.80078 22718.533 C 455.93321 22719.138 445.90768 22713.629 438.19336 22704.502 C 430.47904 22695.375 425.70973 22683.173 426.25391 22674.557 C 426.72459 22667.104 432.02206 22657.71 439.77148 22650.83 C 447.03657 22644.381 456.09877 22640.443 463.25195 22640.461 z M 324.83984 22643.492 A 8 8 0 0 0 322.34961 22643.732 A 8 8 0 0 0 316.60547 22653.479 C 316.60547 22653.479 320.26013 22667.895 324.16406 22688.49 C 318.08321 22691.153 311.55161 22693.642 305.39844 22695.699 C 299.41736 22697.699 293.83167 22699.363 289.21094 22700.664 C 285.85659 22677.978 281.43945 22659.979 281.43945 22659.979 A 8 8 0 0 0 271.80273 22654.047 A 8 8 0 0 0 265.87305 22663.682 C 265.87305 22663.682 270.32783 22683.073 273.57031 22705.93 A 8 8 0 0 0 271.41406 22713.391 A 8 8 0 0 0 275.16797 22718.447 C 276.5982 22731.319 277.36635 22744.38 276.54102 22755.057 A 8 8 0 0 0 283.90039 22763.648 A 8 8 0 0 0 292.49414 22756.289 C 293.43594 22744.106 292.71274 22730.142 291.27148 22716.697 C 296.48692 22715.263 303.1919 22713.307 310.47266 22710.873 C 315.85322 22709.074 321.4954 22707.084 327.04883 22704.848 C 331.12724 22729.587 334.54163 22759.039 333.13672 22783.387 A 8 8 0 0 0 340.66211 22791.834 A 8 8 0 0 0 349.10938 22784.309 C 350.719 22756.413 346.75651 22723.906 342.25586 22697.77 C 347.38242 22694.964 352.08406 22691.844 355.97266 22688.326 A 8 8 0 0 0 356.53711 22677.025 A 8 8 0 0 0 351.00391 22674.402 A 8 8 0 0 0 345.23828 22676.461 C 343.6564 22677.892 341.55946 22679.378 339.125 22680.877 C 335.40176 22662.133 332.0957 22649.475 332.0957 22649.475 A 8 8 0 0 0 324.83984 22643.492 z M 772.40039 22656.998 A 8 8 0 0 0 765.18555 22663.033 L 744.85938 22744.025 A 8 8 0 0 0 750.67188 22753.732 A 8 8 0 0 0 760.37891 22747.92 L 780.70508 22666.928 A 8 8 0 0 0 774.89258 22657.221 A 8 8 0 0 0 772.40039 22656.998 z M 189.83594 22670.477 A 8 8 0 0 0 186.76172 22671.014 C 186.76172 22671.014 170.72572 22677.164 155.58984 22687.367 C 148.0219 22692.469 140.54119 22698.567 135.21289 22706.158 C 129.8846 22713.75 126.80849 22723.739 130.15234 22733.686 C 133.52689 22743.723 142.53077 22749.33 151.35547 22751.41 C 160.18016 22753.491 169.60926 22753.263 178.63672 22753.174 C 187.66418 22753.084 196.28419 22753.124 202.31641 22754.529 C 208.34862 22755.933 211.04243 22757.614 212.70117 22762.061 C 213.36122 22763.83 213.31604 22764.993 212.54883 22766.934 C 211.78162 22768.874 210.00353 22771.423 207.20703 22774.102 C 201.61402 22779.458 192.23687 22785.118 182.36719 22789.863 C 162.62783 22799.354 141.1875 22805.533 141.1875 22805.533 A 8 8 0 0 0 135.69922 22815.426 A 8 8 0 0 0 145.5918 22820.914 C 145.5918 22820.914 167.94174 22814.552 189.29883 22804.283 C 199.97737 22799.149 210.47521 22793.125 218.27344 22785.656 C 222.17255 22781.922 225.46942 22777.773 227.42969 22772.814 C 229.38996 22767.856 229.72461 22761.919 227.69141 22756.469 C 223.96365 22746.476 214.86723 22741.022 205.94141 22738.945 C 197.01558 22736.869 187.50896 22737.084 178.47852 22737.174 C 169.44807 22737.264 160.88874 22737.224 155.02734 22735.838 C 149.16595 22734.456 146.78641 22732.953 145.31836 22728.586 C 143.81962 22724.128 144.81088 22720.333 148.30859 22715.35 C 151.80631 22710.366 157.91183 22705.098 164.5332 22700.635 C 177.77594 22691.708 192.53906 22685.934 192.53906 22685.934 A 8 8 0 0 0 197.11133 22675.584 A 8 8 0 0 0 189.83594 22670.477 z M 874.14453 22679.34 C 871.73275 22679.39 869.97374 22680.381 868.73633 22681.156 C 867.08645 22682.19 865.90526 22683.308 864.70312 22684.561 C 862.29886 22687.065 859.94956 22690.179 857.38672 22693.879 C 852.81903 22700.473 847.73286 22708.885 842.75977 22717.516 C 841.10205 22717.191 840.01562 22716.967 840.01562 22716.967 A 8 8 0 0 0 830.52734 22723.133 A 8 8 0 0 0 834.6875 22731.896 C 826.40112 22746.965 819.86523 22759.717 819.86523 22759.717 A 8 8 0 0 0 823.35547 22770.48 A 8 8 0 0 0 834.11719 22766.99 C 834.11719 22766.99 841.89125 22751.851 851.12891 22735.26 C 855.23264 22735.93 859.87883 22736.627 864.81641 22737.23 C 868.58562 22737.692 872.49475 22738.098 876.40234 22738.393 C 877.28336 22746.35 878.13781 22754.699 878.93359 22763.084 C 882.41564 22799.772 884.89648 22836.277 884.89648 22836.277 A 8 8 0 0 0 893.41992 22843.717 A 8 8 0 0 0 900.85938 22835.193 C 900.85938 22835.193 898.3721 22798.543 894.86328 22761.572 C 894.13174 22753.865 893.34885 22746.212 892.54102 22738.797 C 898.35283 22738.6 903.72532 22737.903 908.63672 22735.74 A 8 8 0 0 0 912.73242 22725.195 A 8 8 0 0 0 902.1875 22721.098 C 900.47812 22721.85 896.07165 22722.628 890.68945 22722.824 C 890.134 22718.394 889.56998 22714.151 888.99609 22710.268 C 887.94172 22703.133 886.87881 22697.103 885.71289 22692.428 C 885.12993 22690.09 884.55635 22688.12 883.71875 22686.205 C 883.29995 22685.248 882.83894 22684.295 881.97852 22683.166 C 881.11809 22682.038 879.74407 22680.386 876.78125 22679.65 A 8.0008 8.0008 0 0 0 876.7793 22679.65 C 875.82559 22679.414 874.94846 22679.326 874.14453 22679.342 L 874.14453 22679.34 z M 871.24414 22702.08 C 871.88254 22705.328 872.5131 22708.174 873.16797 22712.605 C 873.60455 22715.56 874.03748 22718.818 874.46875 22722.158 C 871.88494 22721.924 869.29541 22721.66 866.75781 22721.35 C 864.2854 22721.047 861.91193 22720.716 859.60742 22720.379 C 863.4709 22713.835 867.27594 22707.7 870.53906 22702.988 C 870.82371 22702.577 870.96721 22702.469 871.24414 22702.08 z " />
+    <path
+       id="path5262"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 280.16406 17368.766 C 278.31607 17368.831 278.42971 17370.124 267.51758 17374.213 C 266.10754 17374.742 264.6005 17376.35 263.60547 17377.426 C 262.01438 17379.423 260.55026 17381.542 259.66211 17383.955 C 260.5571 17387.002 274.91647 17382.783 274.02148 17379.736 L 274.02148 17379.734 C 273.97558 17379.704 273.73122 17377.714 275.0293 17380.928 C 276.09324 17383.741 276.27249 17386.724 276.01172 17389.691 C 275.96152 17390.111 275.91152 17390.532 275.86133 17390.951 C 276.79282 17393.913 290.75376 17389.522 289.82227 17386.561 C 289.85257 17386.129 289.88171 17385.696 289.91211 17385.264 C 290.00031 17382.077 289.81488 17378.874 288.64844 17375.867 C 287.46273 17373.153 285.93458 17370.378 283.14648 17369.053 C 281.61396 17368.86 280.78006 17368.744 280.16406 17368.766 z M 407.64648 17370.582 C 396.01425 17372.032 395.85898 17372.377 389.95117 17375.971 C 389.45491 17376.699 388.87274 17377.374 388.46289 17378.154 C 387.49385 17379.999 386.42787 17383.38 385.89258 17385.271 C 384.46472 17390.316 383.54708 17395.468 383.42969 17400.723 C 383.45069 17402.579 383.40869 17404.435 383.49219 17406.289 C 383.88631 17415.044 385.509 17423.736 387.60742 17432.225 C 389.39908 17437.757 391.30012 17443.577 395.98438 17447.365 C 396.53022 17447.768 397.03668 17448.231 397.62109 17448.576 C 398.70963 17449.219 399.63269 17449.401 400.83984 17449.686 C 402.07127 17449.978 403.32162 17450.263 404.59375 17450.275 C 406.22025 17450.431 408.10024 17450.177 409.93164 17449.68 C 410.19364 17450.03 410.46885 17450.418 410.77539 17450.9 C 411.7049 17452.363 412.67739 17453.797 413.62891 17455.246 C 416.62799 17459.762 420.29712 17463.737 424.24414 17467.424 C 425.39834 17470.15 438.24796 17464.708 437.09375 17461.982 C 436.27813 17461.345 435.43267 17460.743 434.64648 17460.07 C 431.34177 17457.24 428.40772 17454.006 425.89648 17450.453 C 424.94883 17449.023 423.95978 17447.62 423.05273 17446.164 C 421.72003 17444.025 420.59108 17442.031 419.51758 17440.061 C 420.49902 17436.423 421.38228 17432.761 421.96484 17429.031 C 422.77489 17422.98 423.16795 17421.389 423.23438 17415.113 C 423.34217 17404.932 421.75579 17394.778 418.13672 17385.242 C 417.32374 17383.365 416.6435 17381.425 415.69727 17379.611 C 414.40577 17377.135 412.42048 17374.396 410.32227 17372.49 C 409.51094 17371.753 408.73406 17370.446 407.64648 17370.582 z M 399.76953 17380.131 C 399.95373 17380.174 400.15394 17380.383 400.45508 17380.709 C 403.39933 17383.96 403.9862 17385.745 406.11328 17389.754 C 410.11926 17398.957 411.97468 17408.868 411.68359 17418.898 C 411.51083 17424.851 410.92146 17427.017 409.9082 17432.744 C 409.85148 17432.814 409.80733 17432.878 409.75195 17432.947 C 408.32057 17434.39 406.79467 17436.21 405.51758 17437.996 C 403.21257 17434.929 401.82146 17431.186 400.48047 17427.562 C 400.0338 17426.129 399.53232 17424.711 399.14062 17423.262 C 398.34112 17420.304 397.52878 17416.196 397.03906 17413.197 C 396.41885 17409.398 395.98641 17406.024 395.83398 17402.174 C 395.76168 17400.346 395.82917 17398.517 395.82617 17396.688 C 396.05859 17391.511 396.95512 17386.423 398.61133 17381.512 C 399.20345 17380.446 399.46254 17380.059 399.76953 17380.131 z M 372.5918 17381.424 C 369.19415 17382.747 365.67701 17383.605 362.08398 17384.236 C 353.30086 17385.987 344.46805 17387.574 335.55273 17388.48 C 335.03484 17387.5 333.06471 17387.738 330.80273 17388.562 C 327.68688 17387.372 316.74944 17391.772 317.72852 17394.395 C 321.99311 17402.332 324.93456 17410.856 327.65234 17419.428 C 327.36301 17420.098 327.32313 17420.671 327.63867 17421.068 C 327.81502 17421.065 327.99177 17421.07 328.16797 17421.07 C 328.61727 17422.501 329.0744 17423.932 329.51953 17425.361 C 332.45228 17435.109 334.65703 17445.045 336.70117 17455.01 C 336.64171 17455.52 336.73864 17455.932 337.03516 17456.201 C 337.06645 17456.203 337.09762 17456.205 337.12891 17456.207 C 337.71461 17456.73 339.10358 17456.73 340.72852 17456.42 C 344.26227 17456.644 347.79424 17456.89 351.33789 17456.963 C 354.99877 17457.082 358.37784 17456.913 361.88281 17455.826 C 363.11309 17455.396 364.29001 17454.832 365.4707 17454.285 C 367.88628 17456.233 377.07183 17444.847 374.65625 17442.898 C 373.49936 17443.456 372.34185 17444.015 371.16797 17444.537 C 370.26533 17444.905 369.50358 17445.255 368.55469 17445.512 C 366.0004 17446.207 363.32007 17446.279 360.69336 17446.369 C 356.13944 17446.409 351.58343 17446.139 347.11523 17445.201 C 344.94135 17437.354 342.77148 17429.506 340.57227 17421.666 C 341.28933 17421.594 342.00414 17421.505 342.71875 17421.404 C 343.91133 17421.194 345.10661 17421.025 346.30859 17420.885 C 347.88175 17420.685 349.38326 17420.159 350.89453 17419.703 C 352.93392 17422.107 364.26596 17412.494 362.22656 17410.09 C 360.77085 17410.553 359.32848 17411.1 357.83789 17411.424 C 356.58013 17411.63 355.30104 17411.654 354.07227 17412.035 C 351.65875 17412.504 349.2158 17412.876 346.74805 17412.695 C 344.26423 17412.515 341.80805 17412.128 339.3457 17411.775 C 339.03078 17411.379 338.46635 17411.284 337.75 17411.412 C 337.12032 17409.134 336.48766 17406.856 335.86914 17404.574 C 334.87176 17400.895 333.99572 17397.184 332.95703 17393.518 C 338.71242 17392.526 344.47591 17391.578 350.22656 17390.559 C 353.50649 17390.025 356.76268 17389.415 359.93555 17388.422 C 361.42008 17391.107 374.07633 17384.109 372.5918 17381.424 z M 302.5918 17394.594 C 298.60835 17394.419 289.67737 17398.361 290.58984 17400.736 C 291.95453 17402.594 292.91497 17404.692 293.8125 17406.807 C 294.19789 17407.874 294.62297 17408.926 294.96875 17410.006 C 295.95509 17413.086 296.53019 17415.572 297.21289 17418.764 C 298.3955 17424.295 299.32803 17429.877 299.875 17435.508 C 299.25219 17450.12 295.37565 17448.836 292.72852 17447.604 C 292.1415 17446.97 291.50794 17446.376 290.9668 17445.703 C 286.5215 17440.173 284.40869 17433.179 281.94141 17426.654 C 279.55156 17419.477 277.09771 17412.303 275.32617 17404.945 C 274.26108 17401.97 260.23569 17406.992 261.30078 17409.967 C 262.75882 17413.047 260.99147 17409.266 262.70508 17413.139 C 264.52965 17417.264 264.17101 17416.109 266.00977 17420.848 C 267.21824 17423.962 268.59388 17427.949 269.69922 17431.086 C 271.3128 17435.678 272.79291 17440.325 274.75977 17444.785 C 275.69602 17446.908 276.65751 17448.864 277.9668 17450.777 C 278.47596 17451.521 279.08153 17452.195 279.63867 17452.904 C 282.39671 17455.577 285.7212 17457.431 289.625 17457.658 C 290.54335 17457.708 291.50324 17457.796 292.38086 17457.521 C 297.66209 17455.861 302.79464 17453.765 308.00195 17451.887 C 308.68731 17451.303 309.47008 17450.816 310.05859 17450.135 C 311.16933 17448.849 312.36928 17446.431 312.74023 17444.795 C 313.73233 17440.42 312.84949 17435.697 312.34961 17431.338 C 311.1566 17424.117 310.14322 17416.853 308.67578 17409.68 C 308.02952 17406.521 307.61999 17405.139 306.82227 17402.139 C 306.1424 17399.86 305.35374 17397.611 304.37695 17395.441 C 304.16638 17394.893 303.51105 17394.634 302.5918 17394.594 z M 237.20508 17408.965 C 236.92558 17408.964 236.64578 17408.975 236.36719 17409.002 C 235.39703 17409.092 230.58705 17410.314 229.62695 17410.559 C 226.26445 17411.415 223.02358 17412.289 219.80664 17413.332 C 219.76272 17412.692 219.70676 17412.053 219.67578 17411.412 C 218.65114 17408.406 204.48121 17413.237 205.50586 17416.242 C 205.59596 17416.594 205.67099 17416.95 205.77734 17417.297 C 206.62964 17420.078 207.60394 17422.821 208.49219 17425.59 C 209.40729 17428.444 210.31831 17431.297 211.20117 17434.16 C 211.74748 17435.932 217.19232 17454.019 217.64844 17455.533 C 221.01174 17467.415 225.07568 17479.121 227.83789 17491.166 C 228.82391 17493.901 241.71649 17489.253 240.73047 17486.518 C 237.38109 17478.853 234.271 17471.081 231.50977 17463.186 C 231.75223 17463.365 231.99829 17463.527 232.19922 17463.645 C 233.05903 17464.147 234.06226 17464.343 234.99414 17464.693 C 240.55427 17466.243 245.13786 17468.301 249.75391 17471.82 C 252.28935 17473.752 254.00605 17475.474 256.33008 17477.652 C 258.8595 17480.253 261.34246 17482.899 263.80664 17485.561 C 264.93632 17488.292 277.81523 17482.966 276.68555 17480.234 C 274.00024 17477.683 271.33332 17475.113 268.72852 17472.48 C 267.64495 17471.438 266.59545 17470.358 265.47656 17469.355 C 262.1562 17466.376 258.52562 17463.548 254.54492 17461.502 C 252.58432 17460.493 249.87085 17459.547 247.7793 17458.771 C 247.01818 17458.452 246.25721 17458.135 245.49609 17457.816 C 245.19359 17457.766 244.87529 17457.786 244.58984 17457.67 C 244.52564 17457.65 244.66816 17457.552 244.72656 17457.516 C 245.17024 17457.239 245.62888 17456.986 246.08789 17456.736 C 246.69869 17456.403 247.31965 17456.089 247.93555 17455.766 C 248.62591 17455.383 249.3155 17454.999 250.00586 17454.617 C 251.42817 17453.651 252.52686 17453.141 253.45898 17451.641 C 255.71205 17448.015 254.04794 17442.482 253.48047 17438.668 C 252.1219 17432.614 250.66378 17426.56 248.40625 17420.76 C 247.38267 17418.131 245.13301 17412.904 242.92969 17410.75 C 242.06927 17409.909 240.79332 17409.645 239.72461 17409.092 C 238.88547 17409.069 238.04359 17408.968 237.20508 17408.965 z M 227.34766 17415.404 C 228.34761 17415.772 229.49123 17415.876 230.34766 17416.51 C 233.12686 17418.569 235.06457 17422.275 236.4043 17425.275 C 238.00756 17428.866 239.39937 17433.608 240.24414 17437.451 C 240.6421 17439.261 240.8705 17441.105 241.18359 17442.932 C 241.47448 17446.601 242.60884 17452.36 239.66016 17455.389 C 238.91071 17456.159 236.95809 17457.136 236.08203 17457.619 C 234.77085 17458.345 233.38809 17458.933 232.06836 17459.643 C 231.56502 17459.914 230.91578 17460.044 230.58008 17460.502 C 229.61652 17457.652 228.6993 17454.785 227.83789 17451.9 C 226.80265 17448.239 225.68042 17444.602 224.73047 17440.918 C 222.62098 17432.737 220.80995 17424.374 220.01172 17415.938 C 221.52594 17415.795 223.04885 17415.658 224.20312 17415.531 C 225.24212 17415.389 226.29977 17415.45 227.34766 17415.404 z " />
+    <path
+       id="path19220"
+       style="color:#000000;fill:#342e30;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke:#ffffff;stroke-opacity:0.89999998;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 424.29492 5488.0977 C 422.35884 5488.0877 420.48263 5488.2794 418.72656 5488.6504 C 415.21443 5489.3925 411.90236 5490.6409 410 5493.9863 C 408.87496 5495.9648 408.79121 5497.6831 408.68945 5499.7598 C 408.5877 5501.8364 408.67165 5504.2011 408.86719 5506.8086 C 409.25829 5512.0236 410.11524 5518.1841 411.08008 5524.1328 C 413.00974 5536.0303 415.38867 5547.0781 415.38867 5547.0781 A 4 4 0 0 0 420.14062 5550.1465 A 4 4 0 0 0 423.20898 5545.3945 C 423.20898 5545.3945 421.08405 5535.1379 419.28516 5524.4922 C 421.66127 5524.8752 425.57695 5525.3462 430.64453 5524.6035 C 434.21061 5524.0809 438.06203 5522.9129 441.21875 5520.1699 C 444.37547 5517.4269 446.48306 5513.0267 446.50586 5507.6152 C 446.52876 5502.1775 444.46929 5497.6 441.33789 5494.4727 C 438.20649 5491.3453 434.19843 5489.5932 430.2168 5488.7402 C 428.22598 5488.3137 426.231 5488.106 424.29492 5488.0977 z M 424.25391 5496.1113 C 425.65501 5496.1213 427.12519 5496.2592 428.54102 5496.5625 C 431.37267 5497.1691 433.94786 5498.3974 435.68555 5500.1328 C 437.42323 5501.8683 438.5208 5504.0346 438.50586 5507.582 C 438.49086 5511.1557 437.47545 5512.8253 435.9707 5514.1328 C 434.46596 5515.4403 432.11467 5516.304 429.48438 5516.6895 C 424.22382 5517.4604 418.52734 5516.3066 418.52734 5516.3066 A 4 4 0 0 0 418.14648 5516.375 C 417.65799 5512.8582 417.06598 5509.1482 416.8457 5506.2109 C 416.66538 5503.8065 416.604 5501.697 416.67969 5500.1523 C 416.73646 5498.9939 416.98521 5498.114 417.01367 5497.9082 C 417.13724 5497.8618 418.29148 5496.9196 420.37891 5496.4785 C 421.52022 5496.2374 422.85281 5496.1058 424.25391 5496.1113 z M 456.33984 5528.9902 C 455.54794 5529.0097 454.78747 5529.1518 454.10547 5529.4043 C 452.28678 5530.0766 451.00033 5531.2753 450.00781 5532.4453 C 448.02277 5534.7853 447.03906 5537.3789 447.03906 5537.3789 A 3 3 0 0 0 448.71484 5541.2754 A 3 3 0 0 0 452.61328 5539.5996 C 452.61328 5539.5996 453.41649 5537.7044 454.58398 5536.3281 C 455.16773 5535.64 455.79816 5535.1744 456.18555 5535.0312 C 456.57293 5534.8881 456.68613 5534.8154 457.38672 5535.2109 C 457.56828 5535.3135 457.71261 5535.3833 457.68945 5536.6641 C 457.66625 5537.9448 457.2049 5539.925 456.50977 5541.9082 C 455.81463 5543.8914 454.91617 5545.9043 454.15039 5547.5176 C 453.7675 5548.3242 453.41719 5549.0304 453.13672 5549.6035 C 452.85625 5550.1766 452.68368 5550.4743 452.4668 5551.0703 A 3 3 0 0 0 454.26172 5554.9141 A 3 3 0 0 0 458.10547 5553.1211 C 458.03487 5553.3151 458.25505 5552.7967 458.52734 5552.2402 C 458.79964 5551.6838 459.16408 5550.9456 459.57031 5550.0898 C 460.38277 5548.3783 461.36404 5546.1974 462.17188 5543.8926 C 462.97972 5541.5878 463.64387 5539.1863 463.6875 5536.7734 C 463.7311 5534.3606 462.8847 5531.4255 460.33594 5529.9863 C 459.32107 5529.4133 458.21725 5529.098 457.14062 5529.0117 C 456.87147 5528.9902 456.60381 5528.9838 456.33984 5528.9902 z M 469.95703 5553.7812 A 4 4 0 0 0 466.58789 5558.3242 C 466.58789 5558.3242 468.25471 5569.7467 467.625 5581.3438 C 467.31015 5587.1424 466.37576 5592.9463 464.63672 5597.0801 C 462.89768 5601.2139 460.85153 5603.3521 457.66992 5603.8965 C 454.44905 5604.4476 452.8463 5603.3469 450.75586 5600.1855 C 448.66542 5597.0242 447.00413 5591.8507 445.9707 5586.457 C 443.90385 5575.6697 444.08789 5564.2012 444.08789 5564.2012 A 4 4 0 0 0 440.16406 5560.127 A 4 4 0 0 0 436.08984 5564.0508 C 436.08984 5564.0508 435.83551 5576.0747 438.11328 5587.9629 C 439.25217 5593.907 440.95748 5599.8695 444.08398 5604.5977 C 447.21049 5609.3258 452.67316 5612.8691 459.01953 5611.7832 C 465.40517 5610.6906 469.66766 5605.7489 472.00977 5600.1816 C 474.35187 5594.6144 475.27023 5588.0951 475.61328 5581.7773 C 476.29938 5569.1419 474.5 5557.1523 474.5 5557.1523 A 4 4 0 0 0 469.95703 5553.7812 z M 492.35547 5610.2949 L 492.35547 5610.2969 C 492.35547 5610.2969 487.12611 5610.6844 481.55273 5611.6055 C 478.76604 5612.066 475.88941 5612.6489 473.35938 5613.4648 C 470.82936 5614.2808 468.33472 5614.7237 466.65039 5618.0215 C 465.88386 5619.5223 465.79575 5620.555 465.57227 5622.0332 C 465.34878 5623.5114 465.17502 5625.2553 465.0332 5627.2109 C 464.78559 5630.6254 464.6485 5634.6764 464.61523 5638.7695 A 4 4 0 0 0 464.61523 5638.8555 C 464.61084 5639.4224 464.60172 5639.9878 464.60156 5640.5547 C 464.60056 5645.2438 464.74131 5649.8547 465.06055 5653.541 C 465.22016 5655.3842 465.41758 5656.9832 465.70898 5658.3672 C 465.85469 5659.0592 466.01503 5659.6939 466.28516 5660.377 C 466.55528 5661.06 466.76984 5661.8997 468.13867 5662.8691 C 470.02005 5664.2014 471.09427 5663.9281 472.25391 5663.9238 C 473.41354 5663.9238 474.61755 5663.7925 475.9375 5663.6016 C 478.57739 5663.2199 481.63981 5662.5618 484.61328 5661.8535 C 490.56022 5660.4368 496.13086 5658.8027 496.13086 5658.8027 A 4 4 0 0 0 498.84375 5653.8379 A 4 4 0 0 0 493.88086 5651.125 C 493.88086 5651.125 488.4517 5652.7144 482.75977 5654.0703 C 479.9138 5654.7482 476.99675 5655.365 474.79297 5655.6836 C 474.20305 5655.7686 473.87585 5655.7725 473.41797 5655.8125 C 473.2818 5654.9895 473.14104 5654.1173 473.03125 5652.8496 C 472.77344 5649.8725 472.63649 5645.9535 472.61133 5641.9062 L 482.12109 5639.7383 A 4 4 0 0 0 485.13281 5634.9492 A 4 4 0 0 0 480.34375 5631.9375 L 472.71484 5633.6777 C 472.78412 5631.5674 472.88312 5629.5604 473.01172 5627.7871 C 473.1437 5625.9671 473.30771 5624.3841 473.48242 5623.2285 C 473.60346 5622.4279 473.64877 5622.3198 473.68555 5622.1406 C 473.91425 5622.0526 474.62021 5621.4614 475.81445 5621.0762 C 477.68492 5620.473 480.29145 5619.9202 482.85742 5619.4961 C 487.98936 5618.6481 492.95117 5618.2734 492.95117 5618.2734 A 4 4 0 0 0 496.64258 5613.9863 A 4 4 0 0 0 492.35547 5610.2949 z M 506.91602 5668.1152 C 505.78773 5668.0771 504.6178 5668.1787 503.42383 5668.4766 C 498.14525 5669.793 493.78634 5673.1322 490.54688 5676.8984 C 487.47035 5680.4753 485.11753 5685.0043 484.51758 5689.9961 C 483.91053 5695.0468 485.16387 5700.0366 487.28516 5704.2695 C 489.14237 5707.9753 491.92143 5711.9022 496.33789 5714.0977 C 501.37927 5716.6037 507.65108 5717.5888 513.38281 5715.4473 C 514.52795 5715.0194 515.57284 5714.4744 516.53711 5713.8477 C 520.34328 5717.5625 525.06574 5721.0622 530.99805 5720.4492 A 4 4 0 0 0 534.56641 5716.0605 A 4 4 0 0 0 530.17578 5712.4922 C 528.66335 5712.6485 525.35916 5710.8462 522.26758 5708.1445 C 523.23796 5706.7788 524.06782 5705.3784 524.80078 5704.0566 C 527.12121 5699.8723 528.90221 5694.7647 528.31836 5689.3594 C 527.74781 5684.0769 524.92839 5679.6987 522.00781 5676.2559 C 519.40189 5673.1841 516.01306 5670.6724 512.13672 5669.2207 C 510.87773 5668.7493 509.49499 5668.3648 508.0293 5668.1973 C 507.66287 5668.1554 507.29211 5668.1279 506.91602 5668.1152 z M 506.16992 5676.1367 C 506.4719 5676.1277 506.80198 5676.144 507.14844 5676.1836 C 507.84134 5676.2626 508.60089 5676.4391 509.33203 5676.7129 C 511.76012 5677.6222 514.15045 5679.3596 515.9082 5681.4316 C 518.24276 5684.1836 520.06189 5687.4102 520.36523 5690.2188 C 520.6906 5693.2311 519.58444 5696.9629 517.80273 5700.1758 C 517.4481 5700.8152 517.06475 5701.4348 516.67188 5702.041 C 515.09702 5700.0292 514.11914 5698.543 514.11914 5698.543 A 4 4 0 0 0 511.5918 5696.8145 A 4 4 0 0 0 508.58398 5697.3809 A 4 4 0 0 0 507.42188 5702.916 C 507.42188 5702.916 508.80916 5705.0348 511.01172 5707.7695 C 510.86818 5707.8367 510.72529 5707.8996 510.58203 5707.9531 C 507.62013 5709.0598 503.17222 5708.56 499.90039 5706.9336 C 497.86197 5705.9203 495.8184 5703.4409 494.4375 5700.6855 C 492.90615 5697.6298 492.09239 5693.9993 492.45898 5690.9492 C 492.82153 5687.9327 494.43793 5684.6426 496.61133 5682.1152 C 499.0129 5679.3231 502.26304 5677.0105 505.35938 5676.2383 C 505.59409 5676.1797 505.86795 5676.1457 506.16992 5676.1367 z " />
+  </g>
+</svg>
