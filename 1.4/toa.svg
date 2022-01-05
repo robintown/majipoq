@@ -8,7 +8,7 @@
    height="18656"
    viewBox="0 0 1066.6667 18656"
    sodipodi:docname="toa.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    inkscape:export-filename="toa.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72"
@@ -29,15 +29,36 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.75"
-     inkscape:cx="298"
-     inkscape:cy="4034.6667"
+     inkscape:cx="686"
+     inkscape:cy="14329.333"
      inkscape:window-width="1888"
      inkscape:window-height="989"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g890"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true"
+     inkscape:object-paths="true">
+    <sodipodi:guide
+       position="0,18656"
+       orientation="1,0"
+       id="guide73454"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="1066.6667,18656"
+       orientation="1,0"
+       id="guide73456"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,18656"
+       orientation="0,-1"
+       id="guide73458"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
@@ -80,12 +101,12 @@
          x="877.43695"
          y="576.42346"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan10581">PÓ CHÉ BỦKĀ GA</tspan><tspan
+         id="tspan17661">PÓ BAQ BỦKACHE</tspan><tspan
          sodipodi:role="line"
          x="877.43695"
          y="615.1347"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan17661">CHỈECHĒMĒ</tspan></text>
+         id="tspan50534">GA CHỈEJIO</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:53.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -96,7 +117,7 @@
          x="258.10934"
          y="16876.814"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1"
-         id="tspan17661-6">Júıbōshūo</tspan></text>
+         id="tspan17661-6">Hẻaqshuo</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:33.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -107,38 +128,43 @@
          x="877.43695"
          y="676.42346"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan24745">PÁQ TÏ MÍ</tspan><tspan
+         id="tspan24745">PÁQ TÏ TÁ</tspan><tspan
          sodipodi:role="line"
          x="877.43695"
          y="715.1347"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan25275">FỎCĪNĀ</tspan></text>
+         id="tspan25275">MÍ FỎCINA</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="664.31995"
-       y="1121.4874"
+       x="667.61682"
+       y="1094.7269"
        id="text37901"><tspan
          sodipodi:role="line"
-         x="664.31995"
-         y="1121.4874"
+         x="667.61682"
+         y="1094.7269"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan38380">Je hỏaı bủ dủa</tspan><tspan
+         id="tspan41004">Lả hỏaı</tspan><tspan
          sodipodi:role="line"
-         x="664.31995"
-         y="1158.7375"
+         x="667.61682"
+         y="1131.9771"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan38714">jí gûotēı hı</tspan><tspan
+         id="tspan67408">bủ dủa jí hê</tspan><tspan
          sodipodi:role="line"
-         x="664.31995"
-         y="1195.9877"
+         x="667.61682"
+         y="1169.2272"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan38716">dêa rúaı mỉ</tspan><tspan
+         id="tspan67410">gủoteı hı rảı</tspan><tspan
          sodipodi:role="line"
-         x="664.31995"
-         y="1233.2378"
+         x="667.61682"
+         y="1206.4773"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan41004">Bẻlȳ da.</tspan></text>
+         id="tspan67412">lêo dẻa míruaı</tspan><tspan
+         sodipodi:role="line"
+         x="667.61682"
+         y="1243.7273"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan68964">bẻly da.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -149,90 +175,105 @@
          x="257.39938"
          y="2295.7102"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan41159">Dủı chủı baq</tspan><tspan
+         id="tspan42353">Hẻ tủa mủaq</tspan><tspan
          sodipodi:role="line"
          x="257.39938"
          y="2332.9602"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan42351">güo tủa mủaq</tspan><tspan
+         id="tspan74272">nháo jí dũı</tspan><tspan
          sodipodi:role="line"
          x="257.39938"
          y="2370.2104"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan42353">hó jí da!</tspan></text>
+         id="tspan74274">chủı da!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="876.83167"
-       y="2750.0696"
+       x="873.57123"
+       y="2735.0488"
        id="text44477"><tspan
          sodipodi:role="line"
-         x="876.83167"
-         y="2750.0696"
+         x="873.57123"
+         y="2735.0488"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan44614">Jẻo ke häı chỉ</tspan><tspan
+         id="tspan44614">Nhu, jẻo lú hảı</tspan><tspan
          sodipodi:role="line"
-         x="876.83167"
-         y="2787.3196"
+         x="873.57123"
+         y="2772.2988"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan44618">jí hóa, je jủoq</tspan><tspan
+         id="tspan44622">chỉ jí hóa, lả jỏq</tspan><tspan
          sodipodi:role="line"
-         x="876.83167"
-         y="2824.5698"
+         x="873.57123"
+         y="2809.5491"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan44620">tảo jẻaq dủosūaı</tspan><tspan
+         id="tspan108964">lủ chỉa gủaı jẻaq</tspan><tspan
          sodipodi:role="line"
-         x="876.83167"
-         y="2861.8198"
+         x="873.57123"
+         y="2846.7991"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan44622">ru lẻoqcāı jí da.</tspan></text>
+         id="tspan108966">jí hóa ky sûaı ru</tspan><tspan
+         sodipodi:role="line"
+         x="873.57123"
+         y="2884.0493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan112856">lẻoqcaı ja da.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="194.42586"
-       y="5244.1357"
+       x="194.43628"
+       y="5225.2295"
        id="text44477-8"><tspan
          sodipodi:role="line"
-         x="194.42586"
-         y="5244.1357"
+         x="194.43628"
+         y="5225.2295"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan91519">Kủaı túq rẻq</tspan><tspan
+         id="tspan91527">Tushı rẻq</tspan><tspan
          sodipodi:role="line"
-         x="194.42586"
-         y="5281.3857"
+         x="194.43628"
+         y="5262.4795"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan91523">roy jí nûa bỏ</tspan><tspan
+         id="tspan207259">bü hỏ jí bı,</tspan><tspan
          sodipodi:role="line"
-         x="194.42586"
-         y="5318.6357"
+         x="194.43628"
+         y="5299.7295"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan91525">ja dỏımīa</tspan><tspan
+         id="tspan249846">shảo hó nûa</tspan><tspan
          sodipodi:role="line"
-         x="194.42586"
-         y="5355.8862"
+         x="194.43628"
+         y="5336.98"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan91527">jóqhūa hó!</tspan></text>
+         id="tspan251728">bỏ hó nháo</tspan><tspan
+         sodipodi:role="line"
+         x="194.43628"
+         y="5374.23"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan249848">jóqhua da!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="216.01918"
-       y="3253.4758"
+       x="215.98273"
+       y="3237.4238"
        id="text45684"><tspan
          sodipodi:role="line"
-         x="216.01918"
-         y="3253.4758"
+         x="215.98273"
+         y="3237.4238"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan46143">Gủo co hảı lủı</tspan><tspan
+         id="tspan47409">Je tỉo pủı</tspan><tspan
          sodipodi:role="line"
-         x="216.01918"
-         y="3290.7258"
+         x="215.98273"
+         y="3274.6738"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan46735">hóq, hu mí Mảlȳ</tspan><tspan
+         id="tspan137169">lú gủo hóa ní,</tspan><tspan
          sodipodi:role="line"
-         x="216.01918"
-         y="3327.9761"
+         x="215.98273"
+         y="3311.9241"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan47409">moq?</tspan></text>
+         id="tspan137171">hu mí Mảly</tspan><tspan
+         sodipodi:role="line"
+         x="215.98273"
+         y="3349.1741"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan137173">moq?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:34.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -243,96 +284,101 @@
          x="836.60822"
          y="3758.9622"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan60746">—bũ, je chỉ</tspan><tspan
+         id="tspan60756">Zı, lả chỉ</tspan><tspan
          sodipodi:role="line"
          x="836.60822"
          y="3802.9851"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan60750">jí hêıgū</tspan><tspan
+         id="tspan147981">jí hêı gủ</tspan><tspan
          sodipodi:role="line"
          x="836.60822"
          y="3847.0081"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan60756">gúo da…</tspan></text>
+         id="tspan147983">gúo da…</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:42.6667px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="665.47809"
-       y="3654.0405"
+       style="font-size:40px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="673.86353"
+       y="3664.5562"
        id="text45684-0"><tspan
          sodipodi:role="line"
-         x="665.47809"
-         y="3654.0405"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan47606">Hẻı</tspan><tspan
+         x="673.86353"
+         y="3664.5562"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan49788">Hẻı gúo</tspan><tspan
          sodipodi:role="line"
-         x="665.47809"
-         y="3703.9558"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan49788">gúo?</tspan></text>
+         x="673.86353"
+         y="3711.3518"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan139403">go?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:42.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="397.75406"
-       y="4292.3062"
+       style="font-size:34.6667px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="399.94153"
+       y="4267.1343"
        id="text63486"><tspan
          sodipodi:role="line"
-         x="397.75406"
-         y="4292.3062"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan63484">Sẻaqmōıfāı</tspan><tspan
+         x="399.94153"
+         y="4267.1343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan76365">Chủnıhuı súq.</tspan><tspan
          sodipodi:role="line"
-         x="397.75406"
-         y="4347.6426"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan76365">súq.</tspan></text>
+         x="399.94153"
+         y="4308.6284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan148810">Lả dủq tủa fẻy</tspan><tspan
+         sodipodi:role="line"
+         x="399.94153"
+         y="4350.123"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan148812">súq nháo da.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:37.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="600.73846"
-       y="4840.9521"
+       style="font-size:34.6667px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       x="599.92078"
+       y="4849.5723"
        id="text79464"><tspan
          sodipodi:role="line"
-         x="600.73846"
-         y="4840.9521"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan86220">Ỏı!</tspan><tspan
+         x="599.92078"
+         y="4849.5723"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan86226">Obe!</tspan><tspan
          sodipodi:role="line"
-         x="600.73846"
-         y="4889.3716"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan86224">Chỉaı ní jìe</tspan><tspan
+         x="599.92078"
+         y="4891.0664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan167334">Chỉ jí tâo fúy</tspan><tspan
          sodipodi:role="line"
-         x="600.73846"
-         y="4937.791"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan86226">jí mũo bủ!</tspan></text>
+         x="599.92078"
+         y="4932.561"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan173148">sıa chỉaı da!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="431.18628"
+       x="429.18628"
        y="5350.3965"
        id="text92583"><tspan
          sodipodi:role="line"
-         x="431.18628"
+         x="429.18628"
          y="5350.3965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
          id="tspan92616">Keo jí bı,</tspan><tspan
          sodipodi:role="line"
-         x="431.18628"
+         x="429.18628"
          y="5387.6465"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan92622">shủaınū shảo</tspan><tspan
+         id="tspan92622">shủaınu shảo</tspan><tspan
          sodipodi:role="line"
-         x="431.18628"
+         x="429.18628"
          y="5424.8965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan92626">jí mâıgāq</tspan><tspan
+         id="tspan92626">fúy mâıgaq</tspan><tspan
          sodipodi:role="line"
-         x="431.18628"
+         x="429.18628"
          y="5462.147"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan92628">jí hó da!</tspan></text>
+         id="tspan92628">jí hó dâ!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -343,17 +389,17 @@
          x="748.07172"
          y="5800.9067"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan92751">Je tảo súq</tspan><tspan
+         id="tspan270384">Lẻo súq</tspan><tspan
          sodipodi:role="line"
          x="748.07172"
          y="5838.1567"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan93217">hóq chà sa</tspan><tspan
+         id="tspan270386">ní chà sa</tspan><tspan
          sodipodi:role="line"
          x="748.07172"
          y="5875.4067"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan93219">ảı cả kỉeq da.</tspan></text>
+         id="tspan270388">kỉmo da.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -364,17 +410,17 @@
          x="179.40166"
          y="6140.4624"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan99449">Bủ shảo jí</tspan><tspan
+         id="tspan99455">Bủ shảo</tspan><tspan
          sodipodi:role="line"
          x="179.40166"
          y="6177.7124"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan99453">châ hóq</tspan><tspan
+         id="tspan284349">jí lêo fúy</tspan><tspan
          sodipodi:role="line"
          x="179.40166"
          y="6214.9624"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan99455">ní da…</tspan></text>
+         id="tspan284351">ní nũ da…</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -390,7 +436,7 @@
          x="356.01624"
          y="6316.7695"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan99576">tûa hỏaq hó</tspan><tspan
+         id="tspan99576">tûa hỏaq nháo</tspan><tspan
          sodipodi:role="line"
          x="356.01624"
          y="6354.0195"
@@ -400,37 +446,25 @@
          x="356.01624"
          y="6391.27"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan99582">dïeq jí hóa hó,</tspan><tspan
+         id="tspan99582">dïeq jí máq fúy,</tspan><tspan
          sodipodi:role="line"
          x="356.01624"
          y="6428.52"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan99586">tıu dảı chả tảı</tspan><tspan
+         id="tspan101694">tıu dảı tảı jí ní</tspan><tspan
          sodipodi:role="line"
          x="356.01624"
          y="6465.77"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan101694">jí hóq tou</tspan><tspan
+         id="tspan101696">chà tou tâocaı</tspan><tspan
          sodipodi:role="line"
          x="356.01624"
          y="6503.02"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan101696">tâocāı jí da.</tspan></text>
+         id="tspan357736">fúy dâ.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:26.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';letter-spacing:3px;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none"
-       x="71.387291"
-       y="6208.4771"
-       id="text103050"
-       transform="rotate(-7.6008332)"><tspan
-         sodipodi:role="line"
-         x="72.887291"
-         y="6208.4771"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#2f292b;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         id="tspan103048">Zảıcīa—</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.3;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1;letter-spacing:1px"
+       style="font-size:16px;line-height:1.3;font-family:Inter;-inkscape-font-specification:'Inter, Normal';letter-spacing:1px;stroke-width:1"
        x="-725.62335"
        y="6087.1479"
        id="text135010"
@@ -439,17 +473,17 @@
          x="-725.62335"
          y="6087.1479"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan135061">Tủa hỏaq hó máq,</tspan><tspan
+         id="tspan135067">Tủa hỏaq nháo máq,</tspan><tspan
          sodipodi:role="line"
          x="-725.62335"
          y="6110.666"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan135065">je nỏaq hó cu</tspan><tspan
+         id="tspan361604">ru lả nỏaq nháo</tspan><tspan
          sodipodi:role="line"
-         x="-725.62335"
+         x="-725.12335"
          y="6134.1846"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan135067">sıa mẻa máq da.</tspan></text>
+         id="tspan361600">sıa mẻa máq da.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';letter-spacing:1.5px;stroke-width:1"
@@ -461,132 +495,147 @@
          x="-257.57715"
          y="6453.5449"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan147772">Díaıkō ỉomā</tspan><tspan
+         id="tspan311322">Kó dỉaı</tspan><tspan
          sodipodi:role="line"
-         x="-257.07715"
+         x="-256.82715"
          y="6477.2495"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan147776">jỏe sỏı</tspan></text>
+         id="tspan311326">jỏe sỏı</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="662.71417"
-       y="6896.6445"
+       x="668.20374"
+       y="6895.0298"
        id="text161446"><tspan
          sodipodi:role="line"
-         x="662.71417"
-         y="6896.6445"
+         x="668.20374"
+         y="6895.0298"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan161497">Tu rảı shè</tspan><tspan
+         id="tspan385742">Nhu tu</tspan><tspan
          sodipodi:role="line"
-         x="662.71417"
-         y="6933.8945"
+         x="668.20374"
+         y="6932.2798"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan161941">chîa tảo jí</tspan><tspan
+         id="tspan161941">rảı shè chîa</tspan><tspan
          sodipodi:role="line"
-         x="662.71417"
-         y="6971.1445"
+         x="668.20374"
+         y="6969.5298"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan163219">ráı hóq bı,</tspan><tspan
+         id="tspan376336">tảo jí ráı bı,</tspan><tspan
          sodipodi:role="line"
-         x="662.71417"
-         y="7008.395"
+         x="668.20374"
+         y="7006.7803"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan161943">jỉa tảo jí</tspan><tspan
+         id="tspan163221">jỉa tảo jí</tspan><tspan
          sodipodi:role="line"
-         x="662.71417"
-         y="7045.645"
+         x="668.20374"
+         y="7044.0303"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan163221">ráı da!</tspan></text>
+         id="tspan386496">ráı da!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="878.89648"
-       y="7057.4258"
+       x="876.79755"
+       y="7044.6079"
        id="text164115"><tspan
          sodipodi:role="line"
-         x="878.89648"
-         y="7057.4258"
+         x="876.79755"
+         y="7044.6079"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan164325">Shảı lẻo jí pó</tspan><tspan
+         id="tspan164327">Gủosıa</tspan><tspan
          sodipodi:role="line"
-         x="878.89648"
-         y="7094.6758"
+         x="876.79755"
+         y="7081.8579"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan164987">rúaı mỉ Bẻlȳ</tspan><tspan
+         id="tspan383449">shâı lẻo jí</tspan><tspan
          sodipodi:role="line"
-         x="878.89648"
-         y="7131.9258"
+         x="876.79755"
+         y="7119.1079"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan164327">rào sıa!</tspan></text>
+         id="tspan383451">pó míruaı</tspan><tspan
+         sodipodi:role="line"
+         x="876.79755"
+         y="7156.3584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan383453">bẻly nha!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="192.00066"
-       y="7399.4106"
+       x="190.45378"
+       y="7395.8062"
        id="text165393"><tspan
          sodipodi:role="line"
-         x="192.00066"
-         y="7399.4106"
+         x="190.45378"
+         y="7395.8062"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan165678">Je bủ shỷ</tspan><tspan
+         id="tspan168164">Lả bủ shỏe</tspan><tspan
          sodipodi:role="line"
-         x="192.00066"
-         y="7436.6606"
+         x="190.45378"
+         y="7433.0562"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan165682">jí tûa mủaq</tspan><tspan
+         id="tspan383820">jí tûa mủaq</tspan><tspan
          sodipodi:role="line"
-         x="192.00066"
-         y="7473.9106"
+         x="190.45378"
+         y="7470.3062"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan165684">sa chẻ bủkā</tspan><tspan
+         id="tspan383822">sa bủkache</tspan><tspan
          sodipodi:role="line"
-         x="192.00066"
-         y="7511.1611"
+         x="190.45378"
+         y="7507.5566"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan168164">hó da!</tspan></text>
+         id="tspan383824">nháo nha!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="670.5083"
-       y="9029.6865"
+       x="670.64374"
+       y="9009.8477"
        id="text165393-9"><tspan
          sodipodi:role="line"
-         x="670.5083"
-         y="9029.6865"
+         x="670.64374"
+         y="9009.8477"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan173315">Cả jảq zảıcīa</tspan><tspan
+         id="tspan173319">Ubaı,</tspan><tspan
          sodipodi:role="line"
-         x="670.5083"
-         y="9066.9365"
+         x="670.64374"
+         y="9047.0977"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan173319">hóq há da.</tspan></text>
+         id="tspan390560">cả jảq zảıcıa</tspan><tspan
+         sodipodi:role="line"
+         x="670.64374"
+         y="9084.3477"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan390562">ní há da.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="248.28015"
-       y="10504.416"
+       x="250.17598"
+       y="10490.525"
        id="text165393-9-1"><tspan
          sodipodi:role="line"
-         x="248.28015"
-         y="10504.416"
+         x="250.17598"
+         y="10490.525"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan184949">Hủısēaq chỉ</tspan><tspan
+         id="tspan415607">Lú jỏaq hóa</tspan><tspan
          sodipodi:role="line"
-         x="248.28015"
-         y="10541.666"
+         x="250.17598"
+         y="10527.775"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan185041">jóaq chỉechēmē</tspan><tspan
+         id="tspan489142">chíecheme bı, chỉ</tspan><tspan
          sodipodi:role="line"
-         x="248.28015"
-         y="10578.916"
+         x="250.17598"
+         y="10565.025"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan185045">jîa tảo súq lêoq</tspan><tspan
+         id="tspan492016">lẻ kúy juaq jîa</tspan><tspan
          sodipodi:role="line"
-         x="248.28015"
-         y="10616.166"
+         x="250.17598"
+         y="10602.275"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan185047">ja dỏımīa jíaq da!</tspan></text>
+         id="tspan492026">hẻro tủa sỏıcıa</tspan><tspan
+         sodipodi:role="line"
+         x="250.17598"
+         y="10639.525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan447718">ku súq jíaq da!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -597,111 +646,116 @@
          x="846.15021"
          y="10948.896"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan186591">Ha…</tspan><tspan
+         id="tspan186591">Aha…</tspan><tspan
          sodipodi:role="line"
          x="846.15021"
          y="10986.146"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan186595">ào dûa jóaq</tspan><tspan
+         id="tspan187359">ào dûa</tspan><tspan
          sodipodi:role="line"
          x="846.15021"
          y="11023.396"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan187359">chỉechēmē</tspan><tspan
-         sodipodi:role="line"
-         x="846.15021"
-         y="11060.646"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan186597">ní bı—</tspan></text>
+         id="tspan496217">kúy ní bı—</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="255.71661"
-       y="11434.519"
+       x="256.20621"
+       y="11401.634"
        id="text165393-9-1-3-8"><tspan
          sodipodi:role="line"
-         x="255.71661"
-         y="11434.519"
+         x="256.20621"
+         y="11401.634"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan187932">Hu mí Cẻrīkȳ bı,</tspan><tspan
+         id="tspan187932">Hu mí</tspan><tspan
          sodipodi:role="line"
-         x="255.71661"
-         y="11471.769"
+         x="256.20621"
+         y="11438.884"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan511971">Cẻrıky bı,</tspan><tspan
+         sodipodi:role="line"
+         x="256.20621"
+         y="11476.134"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
          id="tspan188508">tủa dủa súq</tspan><tspan
          sodipodi:role="line"
-         x="255.71661"
-         y="11509.019"
+         x="256.20621"
+         y="11513.384"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan188510">sıa ní ba!</tspan></text>
+         id="tspan511973">sıa rảı ní ba.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="286.68649"
-       y="15688.994"
+       x="288.58755"
+       y="15675.614"
        id="text165393-9-1-3-8-5"><tspan
          sodipodi:role="line"
-         x="286.68649"
-         y="15688.994"
+         x="288.58755"
+         y="15675.614"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan215240">…Dủafūı</tspan><tspan
+         id="tspan215240">…Dủafuı</tspan><tspan
          sodipodi:role="line"
-         x="286.68649"
-         y="15726.244"
+         x="288.58755"
+         y="15712.864"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan215244">jảq chẻo</tspan><tspan
+         id="tspan215246">chẻo jảq</tspan><tspan
          sodipodi:role="line"
-         x="286.68649"
-         y="15763.494"
+         x="288.58755"
+         y="15750.114"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan215246">pảı hó da.</tspan></text>
+         id="tspan554845">pảı nháo</tspan><tspan
+         sodipodi:role="line"
+         x="288.58755"
+         y="15787.364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan555447">da.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="824.97284"
-       y="10025.072"
+       x="827.14996"
+       y="10026.343"
        id="text165393-9-7"><tspan
          sodipodi:role="line"
-         x="824.97284"
-         y="10025.072"
+         x="827.14996"
+         y="10026.343"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
          id="tspan173563">Sỏq jỏe ní</tspan><tspan
          sodipodi:role="line"
-         x="824.97284"
-         y="10062.322"
+         x="827.14996"
+         y="10063.593"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan173699">ché chỉe, keo</tspan><tspan
+         id="tspan173699">tuq chẻ chỉe,</tspan><tspan
          sodipodi:role="line"
-         x="824.97284"
-         y="10099.572"
+         x="827.14996"
+         y="10100.843"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan173701">mỏı hó tou</tspan><tspan
+         id="tspan173703">keo mỏı bóu tou</tspan><tspan
          sodipodi:role="line"
-         x="824.97284"
-         y="10140.409"
+         x="827.14996"
+         y="10141.68"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan173703">mâıkūaı hó</tspan><tspan
+         id="tspan173705">mâıkuaı bóu rúaı</tspan><tspan
          sodipodi:role="line"
-         x="824.97284"
-         y="10181.246"
+         x="827.14996"
+         y="10182.517"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan173705">rúaı ỉomā da…</tspan></text>
+         id="tspan407447">ỉoma da…</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:42.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
+       style="font-size:40px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
        x="815.69861"
        y="7902.8794"
        id="text168254"><tspan
          sodipodi:role="line"
          x="815.69861"
          y="7902.8794"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan168287">Jỉa lẻoq</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan168291">Lẻoqtao</tspan><tspan
          sodipodi:role="line"
          x="815.69861"
-         y="7958.2158"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan168291">jí hó!</tspan></text>
+         y="7954.7573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan286380">jí nháo nha!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:42.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -712,12 +766,12 @@
          x="713.60492"
          y="8099.5933"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan172981">Je jỉa sẻo</tspan><tspan
+         id="tspan172985">Ru shỏ sẻo</tspan><tspan
          sodipodi:role="line"
          x="713.60492"
          y="8154.9297"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan172985">jí hó!</tspan></text>
+         id="tspan289690">jí nháo nha!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -770,38 +824,43 @@
          x="275.98221"
          y="13020.818"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan194420">pỏq pûa sẻaqmōı</tspan><tspan
+         id="tspan194420">pỏq chûnıcholeı</tspan><tspan
          sodipodi:role="line"
          x="275.98221"
          y="13064.05"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan194422">súq gêı shỉaqtīe</tspan><tspan
+         id="tspan194422">súq gêı shỉaqtıe</tspan><tspan
          sodipodi:role="line"
          x="275.98221"
          y="13107.282"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan194424">sa ỏgūı pỏq nha!</tspan></text>
+         id="tspan194424">baq ỏguıpoq nha!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:33.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="313.4458"
-       y="13984.712"
+       x="312.64371"
+       y="13967.44"
        id="text192726-6"><tspan
          sodipodi:role="line"
-         x="313.4458"
-         y="13984.712"
+         x="312.64371"
+         y="13967.44"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan200456">Lảmīa gẻı</tspan><tspan
+         id="tspan204418">Gẻı baq</tspan><tspan
          sodipodi:role="line"
-         x="313.4458"
-         y="14027.943"
+         x="312.64371"
+         y="14010.672"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan204418">shỉaqtīe!?</tspan><tspan
+         id="tspan535887">lảmıa baq</tspan><tspan
          sodipodi:role="line"
-         x="313.4458"
-         y="14071.175"
+         x="312.64371"
+         y="14053.903"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan200856">Hu mí Cẻrī!?</tspan></text>
+         id="tspan539897">shỉaqtıe go!?</tspan><tspan
+         sodipodi:role="line"
+         x="312.64371"
+         y="14097.136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan200856">Hu mí Cẻrı!?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
@@ -812,22 +871,22 @@
          x="605.58539"
          y="15309.548"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan207506">Tảo jí</tspan><tspan
+         id="tspan207512">Bủ tảo jí</tspan><tspan
          sodipodi:role="line"
          x="605.58539"
          y="15347.592"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan207512">sıa hỏq!</tspan><tspan
+         id="tspan207514">hóq nha!</tspan><tspan
          sodipodi:role="line"
          x="605.58539"
          y="15385.636"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan207514">Je tảoshāo</tspan><tspan
+         id="tspan553209">Tảoshao jí</tspan><tspan
          sodipodi:role="line"
          x="605.58539"
          y="15423.68"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan207516">shủe bỏ jí</tspan><tspan
+         id="tspan207516">shûe bỏ ja</tspan><tspan
          sodipodi:role="line"
          x="605.58539"
          y="15461.723"
@@ -864,7 +923,7 @@
          x="322.91873"
          y="15012.101"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan213288">Hảı rỉudōa</tspan><tspan
+         id="tspan213288">Hảı rỉudoa</tspan><tspan
          sodipodi:role="line"
          x="322.91873"
          y="15046.686"
@@ -874,90 +933,54 @@
          x="322.91873"
          y="15081.271"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Hoe!Komika Slick';-inkscape-font-specification:'Hoe!Komika Slick';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan213872">ní jí ba!</tspan></text>
+         id="tspan213872">jí ní ba!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="599.31152"
-       y="16091.838"
+       x="605.62921"
+       y="16085.249"
        id="text216896"><tspan
          sodipodi:role="line"
-         x="599.31152"
-         y="16091.838"
+         x="605.62921"
+         y="16085.249"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan216997">Je, dủq nủ</tspan><tspan
+         id="tspan217493">Nho,</tspan><tspan
          sodipodi:role="line"
-         x="599.31152"
-         y="16129.088"
+         x="605.62921"
+         y="16122.499"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan217485">hó gủ söq</tspan><tspan
+         id="tspan558969">sỏq jỏe</tspan><tspan
          sodipodi:role="line"
-         x="599.31152"
-         y="16166.338"
+         x="605.62921"
+         y="16159.749"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan217489">jỏe ché</tspan><tspan
+         id="tspan558971">nháo gủ tuq</tspan><tspan
          sodipodi:role="line"
-         x="599.31152"
-         y="16203.588"
+         x="605.62921"
+         y="16196.999"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan217493">chỉe da.</tspan></text>
+         id="tspan564749">chẻ chỉe dâ.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:1"
-       x="795.90527"
-       y="16200.307"
+       x="792.45215"
+       y="16220.499"
        id="text217924"><tspan
          sodipodi:role="line"
-         x="795.90527"
-         y="16200.307"
+         x="792.45215"
+         y="16220.499"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan217957">Lẻmīu jí</tspan><tspan
+         id="tspan217961">Lẻ chêo</tspan><tspan
          sodipodi:role="line"
-         x="795.90527"
-         y="16237.557"
+         x="792.45215"
+         y="16257.749"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan217961">chêo pảıgī</tspan><tspan
+         id="tspan217963">pảıgı tu nủ</tspan><tspan
          sodipodi:role="line"
-         x="795.90527"
-         y="16274.807"
+         x="792.45215"
+         y="16294.999"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan217963">tu nủ</tspan><tspan
-         sodipodi:role="line"
-         x="795.90527"
-         y="16312.057"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan217965">mỏıjōe da.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';letter-spacing:2px;stroke-width:1"
-       x="-4456.8613"
-       y="11569.331"
-       id="text217924-9"
-       transform="rotate(-24.119396)"><tspan
-         sodipodi:role="line"
-         x="-4455.8613"
-         y="11569.331"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;stroke-width:1"
-         id="tspan217965-5">Mí Cẻrīkȳ Ảlērāqtȳ</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';text-align:start;letter-spacing:1.1px;text-anchor:start;stroke-width:1"
-       id="text217924-9-3"><textPath
-         xlink:href="#path32494"
-         id="textPath32576"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:start;text-anchor:start;fill:#2c2c2c;fill-opacity:1;stroke-width:1">Sẻaqdē baq shỉaqtīe</textPath></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';letter-spacing:1.5px;stroke-width:1"
-       x="-6472.0303"
-       y="15770.139"
-       id="text217924-9-7"
-       transform="rotate(-24.119396)"><tspan
-         sodipodi:role="line"
-         x="-6471.2803"
-         y="15770.139"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:center;text-anchor:middle;fill:#291130;fill-opacity:1;stroke-width:1"
-         id="tspan217965-5-5">MÍ CẺRĪKȲ ẢLĒRĀQTȲ</tspan></text>
+         id="tspan217965">mỏıjoe da.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:53.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';text-align:start;text-anchor:start;stroke-width:1"
@@ -968,7 +991,7 @@
          x="159.31769"
          y="17431.795"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1"
-         id="tspan229069">Káıkūe pö mí Cẻrīkȳ</tspan></text>
+         id="tspan229069">Káıkue pö mí Cẻrıky máq</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.3333px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';text-align:start;text-anchor:start;stroke-width:1"
@@ -979,54 +1002,501 @@
          x="159.31769"
          y="17489.795"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1"
-         id="tspan243915">Jẻo ní kảıkūe pû tảogīq shỷ shủe tỉ mí Cẻrīkȳ ja chíekūa</tspan><tspan
+         id="tspan573413">Ní kảıkue bı, tảogıq shỏe mí Cẻrıky shûe tỉ bóu chíekua</tspan><tspan
          sodipodi:role="line"
          x="159.31769"
          y="17533.152"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1"
-         id="tspan246391">da. Hẻqmūo máq sa pủı fủaq läı lảmīa gẻı shỉaqtīe da.</tspan><tspan
+         id="tspan248113">da. Hẻqmuo bóu sa pủı fủaq läı máq baq lảmıa gëı</tspan><tspan
          sodipodi:role="line"
          x="159.31769"
          y="17576.508"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1"
-         id="tspan248113">Jỏe fủaqkāı hó, keo…</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';letter-spacing:0px;stroke-width:0.999998"
-       x="565.41333"
-       y="18462.893"
-       id="text1891-1-0-3"><tspan
-         sodipodi:role="line"
-         x="565.41333"
-         y="18462.893"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:0.999998"
-         id="tspan53829-1-5">Sỏa súq mýı ba!</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';stroke-width:0.999998"
-       x="565.41333"
-       y="18552.893"
-       id="text1076"><tspan
-         sodipodi:role="line"
-         x="565.41333"
-         y="18552.893"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;stroke-width:0.999998"
-         id="tspan1074">.com/color_les</tspan></text>
+         id="tspan596096">shỉaqtıe hó da. Jỏe fủaqkaı nháo, keo…</tspan></text>
     <path
        style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 615.35937,14171.031 c 0,0 84.60417,-59.213 169.875,-68.609"
+       d="m 600.7624,14113.422 c 0,0 84.60417,-59.213 169.875,-68.609"
        id="path32494" />
-    <text
-       xml:space="preserve"
-       style="font-size:14.6667px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';text-align:start;letter-spacing:1.1px;text-anchor:start;stroke-width:1"
-       id="text39214"
-       transform="rotate(3.1880909,210.99728,14219.456)"><textPath
-         xlink:href="#path32494"
-         id="textPath39212"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Hoe!Komika Slim';-inkscape-font-specification:'Hoe!Komika Slim';text-align:start;text-anchor:start;fill:#2c2c2c;fill-opacity:1;stroke-width:1">të gỉaı!!</textPath></text>
     <path
        id="path44445"
        style="fill:none;stroke:#2c2c2c;stroke-width:1.0015748;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 610.47391,14168.824 -4.49219,-2.165 m 0.82873,4.096 3.14394,-5.553 m -2.13079,-0.633 1.26046,6.833" />
+    <path
+       id="path72061"
+       style="color:#000000;fill:#783a49;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 69.310132,810.43164 c -0.07674,-0.0109 -0.141713,-0.0944 -0.214405,-0.0684 -5.544001,1.98294 -8.455249,2.65161 -10.192485,3.99415 -0.868619,0.67128 -1.432602,1.52031 -1.853404,2.75392 -0.420805,1.23356 -0.706092,2.84937 -1.039131,5.09568 -1.635976,11.04746 -2.999944,22.13861 -4.884942,33.12892 -0.387345,1.96033 -0.73467,3.92723 -1.159559,5.86716 -1.313399,5.99676 -3.045811,11.85749 -5.053508,17.57422 -0.01522,0.0442 -0.01707,0.0961 -0.0053,0.14845 0.110982,0.49892 0.476594,0.86371 0.914105,1.03905 0.437514,0.17535 0.9725,0.21659 1.584914,0.17188 1.224833,-0.0894 2.754942,-0.53902 4.241842,-1.1875 1.486902,-0.64847 2.927761,-1.49553 3.96394,-2.38867 0.518089,-0.44657 0.935486,-0.90397 1.207488,-1.36719 0.255553,-0.4352 0.384009,-0.88503 0.307497,-1.35156 -0.0039,0.0143 -0.0076,0.0286 -0.01148,0.043 l 0.0016,-0.13282 c 0.0067,0.0302 0.0049,0.0598 0.0099,0.0899 2.053488,-7.61768 3.71986,-15.36123 5.125519,-23.16797 3.62e-4,-10e-4 5.26e-4,-0.003 9.03e-4,-0.004 0.620585,-3.80699 1.160704,-7.62539 1.71617,-11.4414 0.418784,2.21628 0.869495,4.5998 0.94735,4.99609 0.980349,4.99027 2.025914,9.95555 3.128191,14.89453 5.07e-4,0.003 9.03e-4,0.005 0.0015,0.008 0.117223,0.4786 0.292525,1.31401 0.511358,2.15625 0.218834,0.84224 0.471991,1.68553 0.80321,2.25391 0.08236,0.14133 0.194833,0.3797 0.349582,0.58594 0.07737,0.10311 0.169267,0.20484 0.290826,0.26953 0.121562,0.0647 0.267104,0.0712 0.383458,0.01 4.163489,-2.20732 8.377439,-4.46583 12.211909,-7.61328 0.40959,-0.3362 0.55653,-0.9083 0.63971,-1.49218 0.0832,-0.58388 0.10748,-1.19768 0.22487,-1.67579 0.32555,-1.32595 0.61904,-2.65876 0.92717,-3.98437 -1.3e-4,-6.5e-4 -1.8e-4,-10e-4 -3.6e-4,-0.002 1.40572,-6.3126 2.81962,-12.61749 4.39091,-18.86329 0.83424,2.97836 1.42055,5.83019 1.96241,9.11524 1.02904,6.23904 1.62491,12.55566 2.15547,18.9375 0.55027,7.66715 1.03848,15.34626 1.65239,23.00586 l 9.1e-4,-0.004 c 0.0571,0.8354 0.11326,1.67044 0.1704,2.50586 0.002,0.0201 0.005,0.0404 0.0109,0.0605 0.0637,0.2413 0.18934,0.45814 0.35398,0.61914 0.16465,0.161 0.36066,0.26803 0.57613,0.33984 0.43096,0.14363 0.95197,0.15333 1.54482,0.0742 1.18574,-0.15817 2.65519,-0.68311 4.07581,-1.39648 1.4206,-0.71338 2.78903,-1.6157 3.76358,-2.53907 0.48729,-0.46168 0.87655,-0.92652 1.12468,-1.39062 0.24815,-0.4641 0.36604,-0.93927 0.23867,-1.42188 l 0.01,0.0508 c -0.0778,-0.83073 -0.15597,-1.66144 -0.23368,-2.49219 -0.74767,-7.56924 -1.52653,-15.13057 -2.28743,-22.69531 l -3.6e-4,-0.002 c -0.58293,-5.66995 -0.65744,-6.64353 -1.36607,-12.42773 -0.45672,-3.7279 -1.10733,-9.02864 -1.8407,-12.73828 -0.82331,-4.16435 -1.4479,-5.86505 -2.63121,-9.72852 -0.004,-0.0132 -0.008,-0.0263 -0.0137,-0.0391 -0.46564,-1.04752 -0.8424,-2.21958 -1.44587,-3.24609 -0.17284,-0.29399 -0.37067,-0.76692 -0.62364,-1.16211 -0.12647,-0.19759 -0.27007,-0.38274 -0.45287,-0.50977 -0.18281,-0.12703 -0.4051,-0.17523 -0.61113,-0.10742 -0.6374,0.20979 -3.34759,0.83569 -6.20209,2.04492 -2.85449,1.20924 -5.8846,2.99633 -7.23901,5.63477 -0.74309,1.44755 -1.43545,3.75081 -1.92559,5.21289 -10e-4,0.004 -0.003,0.008 -0.004,0.0117 -1.28105,4.61855 -2.31957,9.31245 -3.35755,14.00193 -1.41609,-6.75855 -2.5858,-13.62017 -3.827728,-20.46289 -1.14e-4,-6.4e-4 -1.78e-4,-10e-4 -3.6e-4,-0.002 -1.13e-4,-6.4e-4 -1.77e-4,-9.9e-4 -3.61e-4,-0.002 -1.16e-4,-6.5e-4 -1.78e-4,-10e-4 -3.62e-4,-0.002 -1.15e-4,-6.5e-4 -1.78e-4,-0.001 -3.61e-4,-0.002 -0.640984,-3.10445 -0.799262,-4.80546 -1.920634,-7.49023 -0.121737,-0.29141 -0.235761,-0.84963 -0.395994,-1.32227 -0.0014,-0.004 -0.004,-0.008 -0.0053,-0.0117 -0.370658,-0.53012 -0.5701,-0.5865 -0.722544,-0.75977 z m 66.778448,12.84961 c -0.36035,0.009 -0.7623,0.0943 -1.2001,0.23632 -1.16743,0.37877 -2.5797,1.17183 -3.92178,2.14258 -1.34211,0.97074 -2.61077,2.11771 -3.48187,3.21093 -0.43555,0.54661 -0.77182,1.07917 -0.96787,1.58399 -0.19606,0.50482 -0.26313,1.00103 -0.0753,1.46484 0.0482,0.11784 0.155,0.19469 0.25248,0.18164 2.53225,-0.33243 4.93132,0.24021 7.14621,1.58399 1.05696,0.7868 1.71096,1.90535 2.1568,3.24023 0.44421,1.32991 0.6693,2.86498 0.84992,4.41211 -0.20105,3.41185 -1.59755,6.23176 -3.75875,8.30078 l -0.002,0.002 c -0.23027,0.15563 -0.46155,0.31117 -0.69182,0.4668 -0.0609,0.0414 -0.0896,0.12571 -0.0744,0.21875 0.082,0.49061 0.41838,0.87838 0.83438,1.08594 0.416,0.20756 0.93086,0.29021 1.52412,0.29687 1.18649,0.0133 2.68082,-0.29855 4.14547,-0.80664 1.46464,-0.50808 2.89607,-1.2113 3.93898,-1.99414 0.52147,-0.39141 0.94527,-0.80239 1.23059,-1.23047 0.25962,-0.3895 0.40969,-0.80329 0.37341,-1.24414 -0.0207,0.0221 -0.0412,0.0443 -0.0618,0.0664 l 0.0478,-0.19727 c 0.007,0.0442 0.0108,0.0872 0.014,0.13086 0.18799,-0.20132 0.37665,-0.40208 0.56448,-0.60351 0.004,-0.004 0.008,-0.009 0.012,-0.0137 2.09266,-2.80643 3.40893,-6.14958 3.44493,-10.0293 2.5e-4,-0.0122 -3.2e-4,-0.0246 -0.002,-0.0371 -0.41918,-3.53323 -1.1779,-7.19783 -3.63111,-9.35156 -0.005,-0.006 -0.0125,-0.0108 -0.0188,-0.0156 -0.37741,-0.27823 -0.75719,-0.62303 -1.20179,-0.88281 -1.94023,-1.13368 -4.09219,-1.48483 -6.19456,-1.59766 -0.0888,-0.14124 -0.17103,-0.29362 -0.29649,-0.38086 -0.18238,-0.1268 -0.38806,-0.19295 -0.6095,-0.22265 -0.1107,-0.0148 -0.22619,-0.0205 -0.34633,-0.0176 z m 6.1322,33.59375 c -7.61737,-0.14104 -15.00189,4.53062 -21.71328,9.45897 -0.006,0.005 -0.0135,0.01 -0.0196,0.0156 -0.85086,0.87221 -1.77476,1.66229 -2.58284,2.64844 -3.44582,4.20512 -5.78314,10.08452 -7.11085,15.78125 -0.33986,1.45827 -0.5322,2.94408 -0.79465,4.39843 -0.001,0.009 -0.002,0.0181 -0.003,0.0273 -0.10576,1.41982 -0.29987,2.85378 -0.32054,4.30664 -0.0678,4.7668 1.21614,10.24588 2.88028,14.34766 0.42078,1.03716 0.94123,1.97325 1.39867,2.93164 0.004,0.009 0.008,0.0171 0.0128,0.0254 0.5118,0.88004 0.98674,1.82807 1.56928,2.69531 0.015,0.0223 0.0356,0.0364 0.0506,0.0586 -0.002,0.005 -0.008,0.009 -0.0106,0.0137 1.01834,1.54418 1.72004,2.24531 2.91259,3.34961 1.40665,1.39286 2.88379,2.66617 4.37681,3.84766 0.0851,0.16179 0.17286,0.32654 0.30532,0.42969 0.1775,0.13822 0.38026,0.21861 0.60051,0.26172 0.44048,0.0862 0.96334,0.0279 1.5518,-0.12696 1.17686,-0.30967 2.60969,-1.02042 3.98105,-1.91211 1.1412,-0.74203 2.12322,-1.6313 2.98133,-2.50195 3.64391,-1.63792 7.17704,-3.9948 10.46345,-5.73437 0.004,-0.002 0.007,-0.005 0.0113,-0.008 1.46635,-0.95805 2.3526,-1.44855 3.73167,-2.72461 2.9121,-2.69459 5.16027,-6.3392 6.97212,-10.24609 0.002,-0.004 0.005,-0.009 0.007,-0.0137 1.02823,-2.7432 1.59439,-3.97589 2.26688,-6.92774 1.18313,-5.19306 1.28067,-10.62042 0.72742,-15.81445 -4.9e-4,-0.003 -8.2e-4,-0.007 -0.002,-0.01 -1.7e-4,-10e-4 -5.3e-4,-0.003 -7.2e-4,-0.004 -0.20478,-1.31825 -0.34746,-2.67571 -0.62185,-4.00195 -0.92106,-4.45199 -2.6415,-9.51741 -5.77582,-12.1875 -0.67933,-0.57872 -1.45087,-0.83041 -2.11345,-1.20704 -0.0136,-0.007 -0.0275,-0.0133 -0.0418,-0.0176 -0.78286,-0.25688 -1.5697,-0.61414 -2.41355,-0.79102 -1.09641,-0.22982 -2.18883,-0.34899 -3.27704,-0.36914 z m -9.6224,7.85155 c 0.97039,0.003 1.94011,0.0673 2.70399,0.19727 0.73537,0.12512 1.46116,0.40606 2.22019,0.6172 0.66379,0.33691 1.33636,0.55678 1.88494,0.96289 2.89296,2.14157 4.5102,6.50108 5.39217,10.64063 0.25949,1.21803 0.40067,2.49995 0.60467,3.77345 0.52629,4.97009 0.31898,10.14859 -0.94217,15.06055 -0.74151,2.8881 -1.23797,3.84546 -2.33659,6.55078 -6.4e-4,10e-4 -3.3e-4,0.002 -8.2e-4,0.004 -1.59054,3.12029 -3.56042,5.88745 -5.86307,8.13868 -1.78622,0.26391 -3.40529,-0.0107 -5.15259,-0.42774 h -0.002 c -0.83076,-0.20783 -1.62084,-0.537 -2.39246,-0.93164 -0.78708,-0.7717 -1.60556,-1.49938 -2.27657,-2.42969 -0.54084,-0.74983 -1.01408,-1.60931 -1.53749,-2.43945 -0.45875,-0.9284 -0.95552,-1.79848 -1.34792,-2.73047 -1.62849,-3.86796 -2.79533,-8.88452 -2.72677,-13.41797 0.0199,-1.32048 0.20543,-2.65753 0.30967,-4.01172 1.3e-4,-0.003 -1.1e-4,-0.005 1.9e-4,-0.008 0.95419,-5.67646 2.69523,-11.39154 5.65589,-15.98828 1.01614,-1.57768 1.75578,-2.43788 2.5584,-3.21875 0.16631,-0.0467 0.42495,-0.15038 0.53892,-0.16797 0.76769,-0.11847 1.73874,-0.17679 2.70912,-0.17383 z m 46.48355,14.03906 c -2.22142,0.0242 -5.55905,1.783 -8.40564,3.53516 -2.84655,1.75217 -5.19112,3.52159 -5.24073,3.5586 -0.36681,0.27377 -0.4871,0.7736 -0.54343,1.27929 -0.0563,0.50569 -0.0535,1.03956 -0.12737,1.44336 -0.22484,1.22952 -0.82664,6.04896 -0.95428,7.03906 -1.11637,8.81087 -2.80612,17.51081 -4.90082,26.08985 l 3.7e-4,0.002 c -0.88686,3.79645 -1.99115,7.51921 -2.88961,11.32813 -7.4e-4,0.005 -0.002,0.0104 -0.002,0.0156 -0.0175,0.10218 -0.0622,0.23202 -0.10026,0.37695 -0.0382,0.14494 -0.0752,0.31072 -0.0316,0.51758 0.12351,0.58598 0.37513,1.02196 0.7027,1.28906 0.32758,0.26711 0.70192,0.36348 1.07976,0.38477 0.75568,0.0426 1.56971,-0.20771 2.16069,-0.27148 1.02909,-0.11106 2.05451,-0.2345 3.0762,-0.29883 1.233,-0.0774 2.46975,-0.0858 3.71145,-0.12891 6.45634,0.0311 12.87613,0.589 19.22005,1.71094 0.0788,0.13401 0.14848,0.27947 0.26195,0.36719 0.17022,0.13158 0.36468,0.20793 0.574,0.24804 0.41861,0.0802 0.91267,0.0236 1.46874,-0.125 1.11214,-0.29711 2.46474,-0.97499 3.75836,-1.82226 1.29362,-0.84727 2.52356,-1.86311 3.37842,-2.85157 0.42742,-0.49422 0.76236,-0.98109 0.96334,-1.44921 0.20099,-0.46813 0.27981,-0.93397 0.1171,-1.38477 -0.0371,-0.10366 -0.12129,-0.18194 -0.21007,-0.19531 -6.47983,-0.97516 -13.00726,-1.4466 -19.54452,-1.80274 -0.002,-6e-5 -0.005,-6e-5 -0.008,0 -3.21562,-0.0343 -3.43721,-0.0932 -6.44633,0.0625 -0.59952,0.0311 -1.22083,0.0153 -1.84848,0.14453 -0.0972,0.02 -0.18324,0.12103 -0.28305,0.16407 0.67979,-3.53096 1.58418,-7.01564 2.26319,-10.57031 l 0.002,-0.006 c 0.33656,-1.56305 0.64849,-3.1316 0.96322,-4.69922 0.0465,0.007 0.0933,0.0128 0.13984,0.0195 1.16974,0.17238 2.34107,0.30151 3.50403,0.46289 0.0822,0.14133 0.1568,0.29272 0.27637,0.38476 0.17647,0.13585 0.3781,0.21458 0.59624,0.25586 0.43629,0.0826 0.95287,0.0219 1.53434,-0.13476 1.16292,-0.31338 2.57767,-1.02618 3.93065,-1.91602 1.35299,-0.88984 2.63954,-1.95609 3.53261,-2.99218 0.44653,-0.51805 0.79667,-1.02638 1.00588,-1.51563 0.20923,-0.48925 0.29016,-0.9768 0.12095,-1.44336 -0.0378,-0.10351 -0.12256,-0.18102 -0.21132,-0.19336 -1.22401,-0.17204 -2.44825,-0.26923 -3.6627,-0.41797 h -0.003 c -2.61996,-0.36296 -5.24395,-0.66059 -7.85908,-1.01172 -0.0833,-0.14362 -0.16073,-0.29728 -0.28222,-0.39062 -0.1783,-0.13699 -0.38073,-0.21629 -0.60141,-0.25781 -0.0874,-0.0165 -0.18063,-0.0219 -0.27435,-0.0274 0.7392,-4.1155 1.4395,-8.23985 2.12427,-12.36914 0.14261,-0.85242 0.46917,-2.43447 0.7504,-3.96875 2.45369,0.43551 4.9053,0.84809 7.37835,1.20899 0.0836,0.14441 0.1604,0.29902 0.28258,0.39257 0.17826,0.1365 0.38064,0.2148 0.60106,0.25586 0.44087,0.0821 0.9632,0.0195 1.55093,-0.14062 1.17545,-0.32019 2.60619,-1.04354 3.97309,-1.94727 1.36693,-0.90372 2.66676,-1.98498 3.56816,-3.03515 0.45069,-0.52509 0.80258,-1.04205 1.01322,-1.53711 0.19144,-0.44989 0.22375,-0.8935 0.10878,-1.32422 0.0122,-0.0111 0.0227,-0.0242 0.0315,-0.0391 l -3.6e-4,-0.002 -0.0269,0.002 c -0.008,-0.0304 0.0181,-0.0637 0.007,-0.0937 -0.0437,-0.11113 -0.14026,-0.18844 -0.23432,-0.1875 l 0.005,-0.006 c -4.41912,-0.17434 -8.7631,-1.10158 -13.14751,-1.78321 -0.002,-7.1e-4 -0.005,-10e-4 -0.008,-0.002 -0.60913,-0.0643 -1.23542,-0.20436 -1.88937,-0.19727 z m 49.16942,25.16211 c -1.10262,0.0116 -2.22785,0.15286 -3.4074,0.38282 -0.007,0.001 -0.0144,0.003 -0.0214,0.006 -5.90711,2.03334 -3.40705,1.06094 -14.47929,7.46289 -0.86979,0.50289 -2.77137,2.42655 -3.40521,3.28906 -1.15242,1.56825 -1.86972,3.3003 -2.72145,5.08594 -0.002,0.003 -0.003,0.006 -0.005,0.01 -1.41663,3.42729 -2.48941,7.03728 -3.2661,10.74414 -0.26348,1.25753 -0.53985,2.52868 -0.68598,3.82813 -0.39659,3.52649 -0.16095,4.49487 0.0998,7.91211 8.1e-4,0.01 0.002,0.0195 0.003,0.0293 0.62977,3.61431 1.52903,7.22508 3.73409,9.8418 2.58673,3.06963 5.95764,4.38211 9.17019,5.75781 0.005,0.002 0.0113,0.004 0.0171,0.006 3.7626,1.22958 2.07863,0.73989 5.46775,1.61328 0.0833,0.14027 0.16119,0.29026 0.28171,0.37891 0.17358,0.12764 0.36918,0.19771 0.58078,0.23242 0.42322,0.0694 0.92166,5.9e-4 1.48096,-0.16404 1.11854,-0.3293 2.47448,-1.04855 3.76802,-1.9375 1.29353,-0.88896 2.52105,-1.94741 3.36882,-2.96682 0.42388,-0.50968 0.75317,-1.00905 0.94864,-1.48631 0.19547,-0.47726 0.26871,-0.94944 0.0966,-1.4004 -0.0373,-0.0977 -0.11629,-0.17151 -0.20065,-0.1875 -3.63636,-0.7087 -1.78392,-0.27962 -5.60422,-1.33006 l -0.005,-0.002 c -3.07664,-1.18858 -6.19085,-2.28896 -8.56329,-4.99023 -1.95442,-2.22531 -2.82944,-5.39759 -3.3992,-8.72461 -0.0875,-1.21365 -0.25632,-2.39395 -0.25503,-3.57813 0.006,-6.17866 2.05966,-12.30328 4.43753,-17.76171 5.3e-4,-10e-4 2.5e-4,-0.003 8.2e-4,-0.004 0.87938,-1.61971 1.71821,-2.92008 2.67052,-4.125 1.48745,-0.0737 2.94459,0.11333 4.35419,0.9082 0.0854,0.15616 0.17029,0.31836 0.3,0.41796 0.17841,0.13698 0.38188,0.21438 0.60266,0.25586 0.44156,0.0829 0.96394,0.0209 1.55288,-0.13869 1.17788,-0.31907 2.61283,-1.04183 3.98307,-1.94529 1.37026,-0.90346 2.67344,-1.98622 3.57743,-3.03711 0.45199,-0.52544 0.80336,-1.04147 1.01482,-1.5371 0.21146,-0.49568 0.29431,-0.98784 0.12293,-1.45899 -0.0286,-0.0777 -0.0844,-0.14222 -0.15006,-0.17383 -1.48266,-0.71321 -2.91514,-1.074 -4.36957,-1.17968 -0.3636,-0.0264 -0.72889,-0.0371 -1.09643,-0.0332 z m 22.52921,17.60743 c -0.13879,0.003 -0.28154,0.0125 -0.42964,0.0273 -1.18465,0.11873 -2.6569,0.59424 -4.08608,1.25977 -1.42917,0.66552 -2.81052,1.52001 -3.79971,2.41015 -0.49458,0.44507 -0.8926,0.89817 -1.149,1.35352 -0.24351,0.43243 -0.36283,0.87762 -0.27505,1.33594 8.4e-4,-0.008 8.4e-4,-0.017 0.002,-0.0254 l 0.006,0.0977 c -0.005,-0.0244 -0.004,-0.048 -0.008,-0.0723 -0.79583,8.11928 -1.74099,16.22618 -2.59882,24.3457 -0.79797,7.67652 -1.43008,15.36355 -2.16455,23.03906 -0.003,0.0327 10e-6,0.0673 0.008,0.10156 0.11744,0.47522 0.47744,0.81176 0.89715,0.96289 0.4197,0.15113 0.9284,0.17263 1.50786,0.10938 1.15897,-0.12651 2.59786,-0.60627 3.9929,-1.26953 1.39507,-0.66326 2.74229,-1.50946 3.70578,-2.38867 0.48173,-0.43961 0.86848,-0.88599 1.11729,-1.33399 0.23607,-0.42512 0.35173,-0.86288 0.26322,-1.3125 -1e-4,0.004 -8.2e-4,0.008 -8.2e-4,0.0117 l -0.008,-0.084 c 0.005,0.0243 0.005,0.0481 0.01,0.0723 0.16559,-4.57706 0.47856,-9.15191 0.85636,-13.72461 0.88111,0.0956 1.76103,0.19004 2.64344,0.2793 8.1e-4,6.6e-4 0.002,10e-4 0.003,0.002 3.1645,0.26033 6.27574,0.90883 9.34883,1.77539 0.54686,0.17605 1.09693,0.33539 1.64902,0.48242 -0.44863,2.91215 -0.91711,5.82084 -1.39959,8.72852 -0.8198,4.19251 -1.12535,8.44593 -1.56232,12.66602 -7.4e-4,0.005 -0.002,0.0104 -0.002,0.0156 -0.0707,1.58261 -0.28973,3.16651 -0.47086,4.76171 -0.003,0.033 -8.3e-4,0.068 0.007,0.1035 0.11665,0.48131 0.47884,0.8243 0.90353,0.9805 0.42468,0.1562 0.94113,0.1812 1.52923,0.121 1.1762,-0.12019 2.63739,-0.5961 4.05561,-1.25969 1.4182,-0.66359 2.78984,-1.51469 3.77098,-2.4004 0.49058,-0.44281 0.88349,-0.89301 1.13762,-1.34568 0.24057,-0.42859 0.35859,-0.87012 0.27233,-1.32421 -8.3e-4,0.008 -0.002,0.0157 -0.002,0.0234 l -0.006,-0.0996 c 0.006,0.0256 0.004,0.0506 0.008,0.0762 0.16332,-1.58856 0.32714,-3.17998 0.44239,-4.77733 0.34306,-4.1388 0.63894,-8.27531 1.2612,-12.3711 l 0.002,-0.002 c 0.1597,-1.09587 0.32881,-2.1902 0.49543,-3.28516 0.78109,-0.39923 1.59826,-0.89644 2.39629,-1.47069 1.34173,-0.96551 2.61137,-2.10608 3.48308,-3.19531 0.43586,-0.54462 0.77228,-1.07453 0.96895,-1.57813 0.19665,-0.5036 0.26392,-0.99917 0.0774,-1.46289 -0.0459,-0.11322 -0.14646,-0.18959 -0.24162,-0.18359 -0.631,0.0412 -1.25866,0.0827 -1.88062,0.082 -1.19781,-0.0163 -2.38428,-0.12142 -3.55777,-0.31641 0.47938,-3.13293 0.94483,-6.2689 1.34563,-9.41797 l 5.5e-4,-0.006 c 0.72467,-4.98001 1.16408,-9.97632 1.62284,-14.97656 0.003,-0.0327 7e-5,-0.0673 -0.008,-0.10156 -0.0618,-0.24316 -0.1865,-0.46273 -0.35057,-0.62695 -0.16406,-0.16423 -0.36038,-0.27621 -0.57665,-0.35157 -0.43252,-0.1507 -0.95743,-0.16527 -1.55475,-0.0937 -1.19469,0.14294 -2.67749,0.65049 -4.11314,1.34961 -1.43568,0.69913 -2.8196,1.589 -3.80807,2.50586 -0.49424,0.45843 -0.89113,0.92272 -1.14463,1.38672 -0.24191,0.4428 -0.35799,0.89623 -0.26119,1.35938 -8e-5,-0.003 -8e-5,-0.005 2e-4,-0.008 l 0.008,0.0742 c -0.005,-0.0222 -0.004,-0.0442 -0.008,-0.0664 0.0323,4.80632 -0.55224,9.63787 -1.16536,14.4375 l 3.6e-4,0.002 c -0.0892,0.7459 -0.19251,1.48942 -0.28754,2.23437 -0.68373,-0.0825 -1.3699,-0.16408 -2.04712,-0.25391 -0.002,-5e-5 -0.005,-5e-5 -0.008,0 -3.54155,-0.28531 -7.07667,-0.67084 -10.57829,-1.2578 -0.0871,-0.14138 -0.16771,-0.2922 -0.2917,-0.38086 -0.18115,-0.12955 -0.38572,-0.20145 -0.60681,-0.23438 -0.19867,-0.0296 -0.41563,-0.0257 -0.64462,0 0.86755,-8.12126 1.77353,-16.2548 3.32099,-24.2539 0.007,-0.038 0.005,-0.0796 -0.004,-0.1211 -0.1167,-0.48413 -0.48092,-0.83017 -0.90816,-0.98828 -0.32043,-0.11858 -0.69378,-0.16259 -1.10993,-0.15234 z m 68.30853,22.78515 c -1.63538,-0.0256 -3.32862,0.30411 -5.08106,0.60742 -0.003,10e-4 -0.005,0.003 -0.008,0.004 -1.21369,0.29336 -2.44226,0.524 -3.66312,0.88477 -6.33188,1.87099 -11.13858,4.9474 -17.61007,8.77341 -1.87849,1.11059 -3.94944,3.41288 -5.26997,5.42971 -0.70039,1.06962 -1.22718,2.28395 -1.82894,3.4043 -0.005,0.01 -0.01,0.0202 -0.0136,0.0312 -1.0472,3.15311 -1.59587,4.31167 -2.05348,7.73633 -0.68516,5.12739 4.5e-4,10.30179 0.90233,15.14254 0.002,0.01 0.004,0.017 0.006,0.025 1.26669,4.6513 2.79466,9.47076 6.14308,12.34753 -0.0156,-0.035 -0.039,-0.064 -0.0517,-0.1 l 0.0959,0.1407 c -0.0154,-0.013 -0.029,-0.028 -0.0443,-0.041 0.0861,0.1912 0.2046,0.3621 0.35457,0.4804 0.17706,0.1397 0.37929,0.2209 0.59962,0.2657 0.12746,0.026 0.3086,-0.036 0.44947,-0.033 0.14523,0.1294 0.29056,0.2592 0.43579,0.3886 0.01,0.01 0.0195,0.016 0.0298,0.023 2.55408,1.69458 5.39893,3.44658 8.45236,3.58598 2.51153,0.1146 5.62728,-1.3074 8.43564,-2.8985 2.80835,-1.59108 5.31002,-3.36755 6.47412,-3.97455 0.005,0 0.0119,-0.01 0.0174,-0.01 0.69552,-0.4888 1.41733,-0.9368 2.10712,-1.4824 4.35886,-3.44746 7.30676,-8.11926 9.31593,-14.11125 0.002,-0.004 0.002,-0.008 0.004,-0.0117 0.39598,-1.43936 0.88172,-2.86378 1.19777,-4.35938 0.32375,-1.53195 0.52478,-3.09067 0.7028,-4.64062 0.74138,-6.45515 0.51654,-12.88006 -1.15022,-18.92969 -0.002,-0.009 -0.005,-0.0183 -0.01,-0.0273 -0.49772,-1.35685 -0.77822,-2.32757 -1.16652,-3.22657 -0.38828,-0.899 -0.88742,-1.7133 -1.78395,-2.70313 -1.65334,-1.82538 -3.44151,-2.53508 -5.29172,-2.68944 -0.23128,-0.0193 -0.46351,-0.0295 -0.69713,-0.0332 z m -9.4958,7.80664 c 1.73008,0.0519 3.35188,0.53089 4.74007,1.90822 0.77401,0.76792 1.19794,1.40967 1.56046,2.15819 0.36017,0.74374 0.6576,1.60613 1.14081,2.75586 0.32955,1.2994 0.73093,2.54521 0.97103,3.83984 1.09089,5.88209 0.8323,12.47692 -0.59502,18.44727 -0.33294,1.39266 -0.84078,2.73387 -1.26809,4.12107 -1.53404,4.04229 -3.45808,7.2165 -5.93886,9.84956 -0.3679,9.9e-4 -0.69917,0.11609 -1.05776,0.057 -2.16211,-0.35856 -4.07269,-1.44426 -6.03111,-2.61906 -0.41695,-0.3429 -0.83373,-0.68641 -1.25069,-1.02931 -0.008,-0.033 0.02,-0.067 0.01,-0.1 -0.0185,-0.08 -0.0678,-0.1529 -0.1315,-0.1953 -1.72516,-1.0089 -2.93117,-2.56479 -3.87862,-4.44539 -0.9457,-1.8771 -1.62263,-4.0754 -2.25666,-6.31438 -0.95239,-4.57596 -1.57022,-9.49468 -0.84256,-14.31446 0.48533,-3.21473 1.02313,-4.18667 2.12404,-7.15039 1.52675,-2.51217 2.05242,-3.60032 3.92126,-5.37695 1.15188,-0.37618 2.32856,-0.62689 3.50501,-0.94336 h 0.003 c 1.73233,-0.31971 3.54976,-0.70019 5.27571,-0.64844 z m 45.90867,11.62891 c -0.0549,-0.002 -0.11038,0.006 -0.16253,0.0234 -5.44681,1.85729 -7.88132,2.31448 -9.33044,3.09375 -0.72456,0.38962 -1.20015,0.87045 -1.64235,1.62302 -0.44218,0.75257 -0.85799,1.77287 -1.50674,3.27931 -0.002,0.004 -0.005,0.009 -0.007,0.0137 -2.65947,7.69958 -4.92523,15.65355 -8.71422,22.62695 -1.92699,3.32037 -3.94466,6.56822 -6.14687,9.58582 -1.30249,0.953 -2.53022,2.065 -3.37802,3.1289 -0.4346,0.5454 -0.77134,1.0763 -0.96698,1.5801 -0.10205,0.2627 -0.16637,0.5224 -0.18031,0.7773 -0.22529,0.2386 -0.44395,0.4861 -0.67355,0.7188 -0.0457,0.047 -0.0643,0.1224 -0.0499,0.2031 0.0882,0.4925 0.42962,0.8753 0.85026,1.0762 0.42061,0.2008 0.94137,0.2755 1.53876,0.2715 1.19445,-0.01 2.69666,-0.3492 4.16628,-0.8867 1.17871,-0.4311 2.32366,-0.9901 3.27245,-1.6094 3.50902,-0.5458 7.01225,-1.202 10.50836,-1.9258 0.003,-6e-4 0.006,0 0.01,0 1.08608,-0.2857 2.17948,-0.5429 3.26967,-0.8613 1.73912,-0.508 3.46656,-1.075 5.19461,-1.6211 0.74729,5.5471 1.47387,11.1029 2.27995,16.6348 0.002,0.013 0.005,0.026 0.008,0.039 0.0618,0.2263 0.18266,0.4307 0.33891,0.5801 0.15624,0.1494 0.34111,0.2483 0.54232,0.3125 0.40243,0.1282 0.88479,0.1289 1.43283,0.049 1.09593,-0.1607 2.44811,-0.6641 3.75572,-1.3398 1.30757,-0.6758 2.56588,-1.5239 3.4604,-2.3887 0.44727,-0.4324 0.805,-0.8676 1.03186,-1.3008 0.22688,-0.4332 0.33402,-0.8774 0.21035,-1.3301 l 0.006,0.027 c -0.8567,-4.6942 -1.57672,-9.4325 -2.24682,-14.1876 0.86311,-0.1955 1.72691,-0.3854 2.59331,-0.5664 h 0.002 c 2.12672,-0.4571 4.25679,-0.6634 6.39207,-0.709 0.0838,0.1269 0.15711,0.2692 0.27162,0.3496 0.17859,0.1254 0.37853,0.1925 0.59506,0.2227 0.43299,0.06 0.94137,-0.025 1.51165,-0.2071 1.14056,-0.3642 2.51968,-1.13118 3.83189,-2.07218 1.3122,-0.94098 2.55412,-2.05418 3.40738,-3.11718 0.42664,-0.5315 0.757,-1.04866 0.94999,-1.54096 0.19299,-0.4924 0.26055,-0.9777 0.0778,-1.4336 -0.0443,-0.11109 -0.14158,-0.18759 -0.23556,-0.1856 -2.36632,0.051 -4.72268,0.32951 -7.07855,0.877 h 0.002 c -4.35435,0.9363 -8.70536,1.97576 -13.03066,3.22256 -0.81455,-6.01696 -1.59879,-12.04686 -2.52557,-18.03896 l -3.6e-4,-0.002 -3.6e-4,-0.002 c -0.31379,-1.85622 -0.62157,-3.7161 -0.94242,-5.57227 -0.42784,-2.47544 -0.70835,-4.86835 -1.58049,-7.1875 -0.11204,-0.29794 -0.20922,-0.86278 -0.35588,-1.33984 -0.0733,-0.23853 -0.15571,-0.46385 -0.3083,-0.65039 -0.11444,-0.13991 -0.28188,-0.23017 -0.4468,-0.23633 z m -7.24932,19.61334 c 0.0562,0.26469 0.12016,0.4778 0.17876,0.74991 0.92853,5.2346 1.7129,10.5179 2.44998,15.81832 -4.24263,0.94358 -8.50228,1.74178 -12.76306,2.05858 2.60411,-3.63778 4.97013,-7.54802 7.21733,-11.54292 8.1e-4,0 0.002,0 0.003,-0.01 1.13573,-2.26239 1.98727,-4.691 2.91358,-7.0761 z"
+       sodipodi:nodetypes="ssssccsccsssssccccsccsccsssscssscccscccccsssssscccscssccsssssscccsssscssccscssscccscccccsssssccccscscscscssssccssscssccsccsccssscccsccscscssccsscccsscsccccccscssscscssssssccccccssssscccssssssccscssccccccsssssscccccssccccsssssscccccccccsccsccsssscscccsssssssccsscsscccssssssccssccccssscccscsssssccccccccccccscsssssccccccccsssccccccscssssssccccccccccsscscsssccssssccscccccsscscssccsccssccssssssscsscccscccscsccccsscssccccsscccssscscscscsscssscccsccsssssssccccsscssssscsccsssccccsccccccs" />
+    <path
+       id="path327353"
+       style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:#2f292b;stroke-width:3.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.846881;paint-order:stroke fill markers"
+       d="m 862.40365,6116.1308 c -1.38978,-0.011 -2.36914,0.6348 -2.36914,0.6348 a 1.5,1.5 0 0 0 -0.6543,2.0177 1.5,1.5 0 0 0 2.01758,0.6542 c 0,0 1.02776,-0.3226 1.23828,-0.2813 0.0183,0 0.0286,9e-4 0.0352,-0 -0.0106,-0.065 0.0237,-0.017 0,0 0.003,0.021 0.009,0.049 0.0254,0.098 0.083,0.2443 0.1654,1.0637 -0.1875,2.5371 a 1.5,1.5 0 0 0 1.10937,1.8087 1.5,1.5 0 0 0 1.80859,-1.1095 c 0.42449,-1.7723 0.4904,-3.0802 0.10938,-4.2012 -0.38102,-1.121 -1.42013,-1.8954 -2.32227,-2.0723 -0.28191,-0.055 -0.55318,-0.08 -0.81054,-0.082 z m 82.10742,2.582 a 1.499995,1.499995 0 0 0 -0.46875,0.018 l -23.3125,4.6309 a 1.499995,1.499995 0 0 0 -1.17969,1.7637 1.499995,1.499995 0 0 0 1.76367,1.1796 l 23.31446,-4.6328 a 1.499995,1.499995 0 0 0 1.17773,-1.7635 1.499995,1.499995 0 0 0 -1.29492,-1.1955 z m -34.85547,1.1368 c -0.14845,0 -0.31204,0.022 -0.49219,0.072 -0.6424,0.1786 -0.87188,0.5193 -1.05468,0.7676 -0.18281,0.2484 -0.30383,0.4842 -0.42188,0.7402 -0.2361,0.5124 -0.4403,1.1069 -0.64844,1.795 -0.41626,1.3761 -0.82705,3.1043 -1.19922,4.8183 -0.74433,3.4281 -1.32617,6.793 -1.32617,6.793 a 1.499995,1.499995 0 0 0 1.22266,1.7344 1.499995,1.499995 0 0 0 1.73437,-1.2227 c 0,0 0.25967,-1.4841 0.63477,-3.4121 l 5.85742,-2.3809 c 1.56647,2.5004 2.84766,4.6914 2.84766,4.6914 a 1.499995,1.499995 0 0 0 2.05078,0.5391 1.499995,1.499995 0 0 0 0.54101,-2.0508 c 0,0 -1.83149,-3.1394 -3.83203,-6.25 -1.00027,-1.5553 -2.03821,-3.1011 -2.94726,-4.2851 -0.45453,-0.5921 -0.86893,-1.0903 -1.28906,-1.4942 -0.21006,-0.2019 -0.41511,-0.3823 -0.70508,-0.5527 -0.21749,-0.1278 -0.5273,-0.306 -0.97266,-0.3027 z m -11.55469,1.9921 a 1.499995,1.499995 0 0 0 -0.39062,0.018 1.499995,1.499995 0 0 0 -1.21289,1.7403 l 2.375,13.3007 a 1.499995,1.499995 0 0 0 1.74023,1.2129 1.499995,1.499995 0 0 0 1.21289,-1.7402 l -2.375,-13.3008 a 1.499995,1.499995 0 0 0 -1.34961,-1.2305 z m -10.26953,1.1408 c -0.16869,0 -0.34,0.012 -0.51172,0.027 -1.37375,0.1187 -2.93692,0.7315 -3.97461,2.1504 -1.03769,1.4189 -1.50744,3.4423 -1.35742,6.2227 0.15195,2.8161 0.97065,4.7951 2.42383,5.9179 1.45318,1.1229 3.24457,1.1551 4.74023,0.8399 2.99134,-0.6305 5.52735,-2.6055 5.52735,-2.6055 a 1.499995,1.499995 0 0 0 0.30859,-2.0996 1.499995,1.499995 0 0 0 -2.09961,-0.3066 c 0,0 -2.33453,1.6506 -4.35351,2.0761 -1.00949,0.2128 -1.75739,0.132 -2.28711,-0.2773 -0.52973,-0.4093 -1.1382,-1.3796 -1.26367,-3.7051 -0.12741,-2.3612 0.30877,-3.6442 0.7832,-4.293 0.47443,-0.6487 1.02942,-0.8641 1.81055,-0.9316 1.56224,-0.1349 3.58593,0.7637 3.58593,0.7637 a 1.499995,1.499995 0 0 0 2.00977,-0.6797 1.499995,1.499995 0 0 0 -0.67969,-2.0098 c 0,0 -2.13167,-1.1426 -4.66211,-1.0897 z m 22.19336,0.7889 c 0.0841,0.1048 0.12743,0.1396 0.2168,0.2559 0.60979,0.7942 1.33588,1.8419 2.07422,2.959 l -3.48242,1.416 c 0.34712,-1.5799 0.7247,-3.1468 1.07617,-4.3086 0.0426,-0.1408 0.0735,-0.1941 0.11523,-0.3223 z m -34.25586,0.5196 a 1.499995,1.499995 0 0 0 -0.39062,0.021 1.499995,1.499995 0 0 0 -1.19727,1.75 l 2.40625,12.7734 a 1.499995,1.499995 0 0 0 1.75195,1.1974 1.499995,1.499995 0 0 0 1.19532,-1.7521 l -2.4043,-12.7734 a 1.499995,1.499995 0 0 0 -1.36133,-1.2168 z m -11.4043,1.5937 c -0.11374,-0 -0.23438,0 -0.36132,0.02 a 1.500145,1.500145 0 0 0 -0.002,0 c -0.98662,0.1196 -1.41948,0.6814 -1.8125,1.1797 -0.39301,0.4984 -0.72604,1.0771 -1.05859,1.7344 -0.66511,1.3146 -1.30339,2.9416 -1.87891,4.5567 -0.19986,0.5608 -0.38782,1.1132 -0.56836,1.6542 a 1.499995,1.499995 0 0 0 -0.008,0.028 c -0.85438,2.5631 -1.45898,4.7206 -1.45898,4.7206 a 1.499995,1.499995 0 0 0 1.04101,1.8496 1.499995,1.499995 0 0 0 1.84766,-1.041 c 0,0 0.47155,-1.6801 1.15625,-3.793 l 7.07617,-1.5117 c 1.30371,2.3598 2.3125,4.4199 2.3125,4.4199 a 1.499995,1.499995 0 0 0 2.00391,0.6914 1.499995,1.499995 0 0 0 0.6914,-2.0058 c 0,0 -1.29962,-2.6629 -2.89843,-5.4784 a 1.499995,1.499995 0 0 0 -0.01,-0.02 c -0.0971,-0.1708 -0.19194,-0.3403 -0.29101,-0.5117 -0.8679,-1.5014 -1.79865,-3.001 -2.69922,-4.1777 -0.45029,-0.5883 -0.88513,-1.0965 -1.3711,-1.5137 -0.42521,-0.3651 -0.9147,-0.7842 -1.71094,-0.8008 z m -13.39648,2.1895 c -0.58001,-0.016 -1.18209,0.01 -1.79102,0.06 -1.21784,0.1028 -2.46641,0.3139 -3.64062,0.5254 -2.34841,0.4231 -4.29297,0.9297 -4.29297,0.9297 a 1.499995,1.499995 0 0 0 -1.07226,1.8302 1.499995,1.499995 0 0 0 1.83007,1.0742 c 0,0 1.84565,-0.483 4.06641,-0.8829 1.76345,-0.3176 3.42938,-0.3642 4.71484,-0.3301 -0.14104,0.3074 -0.17563,0.4684 -0.4082,0.873 -0.95304,1.6585 -2.56937,3.9528 -4.23633,6.2403 -1.66695,2.2875 -3.38697,4.5782 -4.61328,6.375 -0.61315,0.8984 -1.0994,1.6553 -1.42969,2.3281 -0.16514,0.3364 -0.30982,0.6247 -0.37304,1.1035 -0.0316,0.2394 -0.0571,0.5624 0.125,0.9824 0.18213,0.4201 0.67869,0.8323 1.09375,0.9454 0.72375,0.1969 1.11787,0.1028 1.7539,0.041 0.63604,-0.062 1.39225,-0.1731 2.24024,-0.3165 1.69597,-0.287 3.75403,-0.7062 5.75781,-1.1407 4.00756,-0.8688 7.79102,-1.7949 7.79102,-1.7949 a 1.499995,1.499995 0 0 0 1.09961,-1.8144 1.499995,1.499995 0 0 0 -1.81446,-1.0996 c 0,0 -3.75263,0.9191 -7.71094,1.7773 -1.97915,0.4291 -4.01143,0.8422 -5.625,1.1152 -0.30549,0.052 -0.49599,0.069 -0.76757,0.1094 0.13754,-0.2115 0.17676,-0.3088 0.33789,-0.5449 1.15852,-1.6974 2.87555,-3.9912 4.55859,-6.3008 1.68304,-2.3095 3.32923,-4.6254 4.41211,-6.5098 0.54144,-0.9421 0.95506,-1.7447 1.15625,-2.5918 0.1006,-0.4235 0.18218,-0.8889 -0.0176,-1.4882 -0.19974,-0.5994 -0.88992,-1.1845 -1.48242,-1.3106 -0.52418,-0.1115 -1.0821,-0.1693 -1.66211,-0.1855 z m 13.39844,1.164 c 0.20625,0.2089 0.41838,0.4208 0.69726,0.7852 0.51855,0.6774 1.10474,1.5702 1.69141,2.5273 l -4.3457,0.9297 c 0.46112,-1.2353 0.94611,-2.4183 1.39648,-3.3086 0.21233,-0.4197 0.39179,-0.6838 0.56055,-0.9336 z" />
+    <path
+       id="path386814"
+       style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6;paint-order:stroke fill markers"
+       d="m 780.46354,8341.6966 c -0.12546,0.01 -0.26035,0.023 -0.4043,0.051 v 0 a 1.90019,1.90019 0 0 0 -0.004,0 c -0.95568,0.183 -1.45246,0.816 -1.74219,1.291 -0.28972,0.4749 -0.45436,0.9394 -0.60351,1.4531 -0.2983,1.0274 -0.49504,2.2594 -0.6582,3.6993 -0.32632,2.8796 -0.48186,6.5495 -0.55469,10.2011 -0.0444,2.2249 -0.0515,4.3571 -0.0469,6.3633 a 1.9,1.9 0 0 0 0,0.027 c 0.011,4.5648 0.10352,8.1211 0.10352,8.1211 a 1.9,1.9 0 0 0 1.95312,1.8457 1.9,1.9 0 0 0 1.84571,-1.9531 c 0,0 -0.073,-2.9697 -0.0957,-6.873 l 10.52735,-6.67 c 0.24444,0.3541 0.4889,0.7036 0.73242,1.0586 5.44685,7.9418 10.56055,15.9668 10.56055,15.9668 a 1.9,1.9 0 0 0 2.62304,0.5801 1.9,1.9 0 0 0 0.58203,-2.623 c 0,0 -5.13822,-8.0609 -10.63281,-16.0723 -0.21736,-0.3169 -0.43614,-0.629 -0.6543,-0.9453 l 2.01368,-1.2754 a 1.9,1.9 0 0 0 0.58789,-2.6211 1.9,1.9 0 0 0 -1.18946,-0.8379 1.9,1.9 0 0 0 -1.43164,0.25 l -2.15625,1.3672 c -1.80002,-2.55 -3.5591,-4.9657 -5.10937,-6.9394 -1.17992,-1.5022 -2.23365,-2.7525 -3.15625,-3.6797 -0.4613,-0.4636 -0.8806,-0.847 -1.34961,-1.168 -0.41038,-0.281 -0.86207,-0.672 -1.74023,-0.6191 z m 76.67968,0.1738 c -0.61246,0.01 -1.24153,0.023 -1.88672,0.047 -7.74227,0.2925 -17.7042,1.7854 -26.7207,3.3535 -12.022,2.0908 -22.20312,4.3769 -22.20312,4.3769 a 1.9,1.9 0 0 0 -1.4375,2.2696 1.9,1.9 0 0 0 2.27148,1.4375 c 0,0 10.10335,-2.2672 22.02148,-4.3399 11.91814,-2.0727 25.81149,-3.8902 32.54883,-3.1699 a 1.9,1.9 0 0 0 2.0918,-1.6875 1.9,1.9 0 0 0 -1.6875,-2.0918 c -1.47799,-0.158 -3.16066,-0.2167 -4.99805,-0.1953 z m -167.57226,2.5273 c -0.34929,0 -0.6832,0.043 -0.97657,0.1211 -1.56462,0.4072 -2.61593,1.3769 -3.48242,2.1895 -0.86649,0.8126 -1.48242,1.5625 -1.48242,1.5625 a 1.9,1.9 0 0 0 0.26172,2.6758 1.9,1.9 0 0 0 2.67383,-0.2637 c 0,0 0.47476,-0.5732 1.14648,-1.2031 0.58979,-0.5532 1.27196,-0.9663 1.61524,-1.127 0.0131,0.04 -0.009,-0.019 0.006,0.035 0.24023,0.8978 0.3116,3.3764 -0.42383,7.623 a 1.9,1.9 0 0 0 1.54883,2.1973 1.9,1.9 0 0 0 2.19531,-1.5489 c 0.77672,-4.4849 0.89346,-7.2285 0.35156,-9.2539 -0.27095,-1.0126 -0.77886,-1.947 -1.66992,-2.5156 -0.44553,-0.2843 -0.93459,-0.4275 -1.41016,-0.4746 -0.11889,-0.012 -0.23709,-0.017 -0.35351,-0.018 z m 91.61718,2.1485 c 0.69851,0.7359 1.53177,1.6898 2.53321,2.9648 1.45502,1.8524 3.14317,4.1674 4.88281,6.627 l -8.34961,5.2871 c 0.008,-0.9737 0.0212,-1.9612 0.041,-2.9551 0.0716,-3.5914 0.23075,-7.1977 0.53125,-9.8496 0.10157,-0.8963 0.23538,-1.4561 0.36132,-2.0742 z m -18.80273,0.1308 a 1.9,1.9 0 0 0 -0.59375,0.018 1.9,1.9 0 0 0 -1.51562,2.2207 c 0,0 1.00436,5.3251 2.38671,11.3301 1.38236,6.005 2.96617,12.4713 4.8086,15.7597 a 1.9,1.9 0 0 0 2.58593,0.7305 1.9,1.9 0 0 0 0.72852,-2.5879 c -1.14738,-2.0478 -3.0575,-8.8374 -4.41992,-14.7558 -1.36242,-5.9184 -2.35547,-11.1817 -2.35547,-11.1817 a 1.9,1.9 0 0 0 -1.625,-1.5332 z m -15.32422,1.5215 c -0.22602,0 -0.45483,7e-4 -0.6875,0.012 -0.93066,0.044 -1.91807,0.1981 -3.00391,0.375 -2.17164,0.3539 -4.60596,0.9285 -6.9082,1.5371 -4.60448,1.2173 -8.68945,2.5801 -8.68945,2.5801 a 1.9,1.9 0 0 0 -1.20117,2.4043 1.9,1.9 0 0 0 2.40429,1.2012 c 0,0 3.99387,-1.3319 8.45703,-2.5117 2.23159,-0.59 4.57999,-1.1401 6.54883,-1.461 1.49782,-0.2441 2.32822,-0.1884 3.00586,-0.1582 -0.12829,0.6585 -0.3516,1.5341 -0.81054,2.7305 -1.07024,2.79 -2.90504,6.5719 -4.81836,10.3574 -1.91333,3.7855 -3.90547,7.5845 -5.33985,10.5586 -0.71719,1.4871 -1.29343,2.7569 -1.66992,3.7949 -0.18824,0.5191 -0.33409,0.9652 -0.41016,1.4766 -0.038,0.2557 -0.0679,0.5299 -0.006,0.9219 0.0622,0.3919 0.27974,1.0217 0.88282,1.4453 0.64948,0.456 1.13477,0.4501 1.54492,0.459 0.41015,0.01 0.78327,-0.035 1.18359,-0.1016 0.80065,-0.1331 1.6984,-0.3707 2.71094,-0.6797 2.02508,-0.618 4.47821,-1.5265 6.87695,-2.4687 4.79748,-1.8845 9.36524,-3.9082 9.36524,-3.9082 a 1.9,1.9 0 0 0 0.96875,-2.5059 1.9,1.9 0 0 0 -2.50586,-0.9687 c 0,0 -4.51661,1.9994 -9.2168,3.8457 -2.35009,0.9231 -4.75127,1.8075 -6.59765,2.371 -0.28195,0.086 -0.42646,0.1021 -0.67969,0.1719 0.29228,-0.6844 0.5308,-1.2829 0.97461,-2.2031 1.38543,-2.8726 3.37992,-6.6764 5.31054,-10.4961 1.93063,-3.8197 3.79675,-7.6435 4.97266,-10.709 0.58796,-1.5327 1.014,-2.8522 1.16797,-4.0683 0.077,-0.6081 0.11169,-1.2014 -0.0977,-1.8985 -0.2093,-0.6971 -0.90405,-1.5508 -1.76172,-1.8105 -0.64134,-0.1943 -1.29262,-0.2808 -1.9707,-0.293 z m -36.18945,8.3945 c -0.21911,0.01 -0.46405,0.06 -0.73242,0.1758 -0.63944,0.2765 -0.86626,0.6634 -1.01758,0.9219 -0.15132,0.2585 -0.22397,0.4646 -0.28906,0.668 -0.13019,0.4067 -0.20716,0.8061 -0.2793,1.2734 -0.14429,0.9347 -0.24589,2.1138 -0.33008,3.5 -0.16838,2.7724 -0.25069,6.3443 -0.28906,9.8965 -0.0767,7.1044 0.0273,14.1152 0.0273,14.1152 a 1.9,1.9 0 0 0 1.92774,1.8711 1.9,1.9 0 0 0 1.87304,-1.9277 c 0,0 -0.0604,-4.2527 -0.0527,-9.4492 l 7.73047,-6.1055 c 4.3898,5.8882 8.55859,11.7793 8.55859,11.7793 a 1.9,1.9 0 0 0 2.64844,0.4531 1.9,1.9 0 0 0 0.45508,-2.6484 c 0,0 -4.22664,-5.9722 -8.67774,-11.9395 l 2.65235,-2.0957 a 1.9,1.9 0 0 0 0.3125,-2.6699 1.9,1.9 0 0 0 -2.66797,-0.3125 l -2.58594,2.043 c -1.5175,-1.992 -2.9881,-3.8774 -4.25195,-5.4024 -0.92876,-1.1206 -1.74029,-2.0477 -2.4336,-2.7363 -0.34665,-0.3443 -0.65077,-0.6271 -1.01953,-0.8848 -0.18438,-0.1288 -0.38106,-0.2572 -0.70117,-0.375 -0.20007,-0.074 -0.49224,-0.1667 -0.85742,-0.1504 z m -17.90039,5.4454 a 1.9,1.9 0 0 0 -0.59375,0.023 1.9,1.9 0 0 0 -1.49414,2.2324 c 0,0 0.90846,4.591 2.2207,10.0664 1.31224,5.4754 2.9772,11.772 4.72461,15.5977 a 1.9,1.9 0 0 0 2.51758,0.9375 1.9,1.9 0 0 0 0.93945,-2.5176 c -1.45424,-3.1838 -3.19363,-9.5085 -4.48633,-14.9023 -1.2927,-5.3939 -2.18945,-9.92 -2.18945,-9.92 a 1.9,1.9 0 0 0 -1.63867,-1.5175 z m 19.15039,0.1855 c 0.29813,0.3427 0.49642,0.5317 0.83594,0.9414 1.21993,1.4719 2.6804,3.3433 4.19531,5.332 l -5.41602,4.2774 c 0.0395,-3.4215 0.12291,-6.8371 0.2793,-9.4121 0.0291,-0.4788 0.0713,-0.7245 0.10547,-1.1387 z m -32.91797,3.0469 c -1.16471,-0.014 -2.37835,0.1698 -3.61914,0.4277 -2.48158,0.5159 -5.1099,1.449 -7.55078,2.459 -4.88178,2.02 -9.03125,4.3828 -9.03125,4.3828 a 1.9,1.9 0 0 0 -0.71289,2.5898 1.9,1.9 0 0 0 2.59179,0.7129 c 0,0 3.9884,-2.2633 8.60547,-4.1738 2.30854,-0.9552 4.77001,-1.8132 6.8711,-2.25 1.94891,-0.4052 3.46526,-0.3181 4.19726,-0.047 0.0235,0.1384 0.0584,0.3178 0.0274,0.7051 -0.0781,0.9764 -0.47079,2.5562 -1.12305,4.4121 -1.30452,3.7118 -3.59331,8.5926 -6.02539,13.4199 -2.43208,4.8274 -5.00769,9.6176 -6.91602,13.2872 -0.95416,1.8347 -1.73937,3.3824 -2.27539,4.5625 -0.26801,0.59 -0.47329,1.0753 -0.62109,1.5429 -0.0739,0.2338 -0.14014,0.4536 -0.17188,0.7891 -0.0317,0.3355 -0.19329,1.053 0.69141,1.8144 0.55924,0.4814 1.03581,0.4983 1.3418,0.5098 0.30598,0.012 0.52136,-0.023 0.73047,-0.062 0.41821,-0.08 0.80289,-0.2039 1.24609,-0.3633 0.8864,-0.3186 1.97086,-0.7908 3.23242,-1.3789 2.52312,-1.1761 5.72148,-2.8113 8.88281,-4.4765 6.32267,-3.3306 12.48633,-6.7774 12.48633,-6.7774 a 1.9,1.9 0 0 0 0.73242,-2.5859 1.9,1.9 0 0 0 -2.58593,-0.7324 c 0,0 -6.13725,3.4331 -12.4043,6.7343 -3.13353,1.6506 -6.30304,3.2694 -8.7168,4.3946 -0.16035,0.075 -0.23313,0.096 -0.38672,0.166 0.39087,-0.7846 0.67614,-1.3977 1.18946,-2.3848 1.88704,-3.6287 4.47504,-8.4424 6.9375,-13.3301 2.46246,-4.8876 4.7991,-9.8333 6.21679,-13.8672 0.70885,-2.0169 1.20162,-3.7896 1.32813,-5.3711 0.0633,-0.7908 0.0449,-1.5457 -0.19531,-2.3183 -0.24021,-0.7726 -0.81032,-1.6042 -1.65039,-2.0332 -1.04126,-0.5318 -2.15756,-0.7438 -3.32227,-0.7578 z" />
+    <path
+       id="path391276"
+       style="color:#000000;fill:#2f2f2f;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke:#ffffff;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 162.89453 9106.8086 C 162.59926 9106.8185 162.31691 9106.8637 162.06445 9106.9336 C 160.71803 9107.3063 159.95415 9108.118 159.37305 9108.7559 C 158.79195 9109.3937 158.41211 9109.9883 158.41211 9109.9883 A 2 2 0 0 0 159.00781 9112.7539 A 2 2 0 0 0 161.77344 9112.1562 C 161.77344 9112.1562 161.98652 9111.8263 162.33008 9111.4492 C 162.55666 9111.2005 162.69728 9111.1269 162.85938 9111.0137 C 163.15266 9111.5667 163.62096 9113.0293 163.8418 9115.7188 A 2 2 0 0 0 166 9117.5469 A 2 2 0 0 0 167.83008 9115.3906 C 167.57406 9112.2726 167.12476 9110.2908 166.24414 9108.8184 C 165.80383 9108.0822 165.19649 9107.4471 164.4082 9107.0938 C 163.91553 9106.8728 163.38665 9106.7921 162.89453 9106.8086 z M 214.76172 9111.6465 C 214.35443 9111.6205 213.88667 9111.6975 213.39453 9111.998 C 212.55988 9112.5076 212.37204 9113.1322 212.22656 9113.6016 C 212.08109 9114.0709 212.02162 9114.5083 211.98047 9114.9883 C 211.89817 9115.9483 211.91839 9117.0681 211.99219 9118.3555 C 212.13989 9120.9302 212.52122 9124.1398 212.96289 9127.3105 C 213.02236 9127.7374 213.0852 9128.1566 213.14648 9128.5801 A 2 2 0 0 0 212.5 9131.3242 A 2 2 0 0 0 213.69336 9132.2031 C 214.36613 9136.4737 214.97656 9139.8164 214.97656 9139.8164 A 2 2 0 0 0 217.30469 9141.4219 A 2 2 0 0 0 218.91211 9139.0938 C 218.91211 9139.0938 218.21331 9135.2698 217.49219 9130.5977 L 224.03516 9126.5664 C 228.04785 9131.6296 231.60742 9136.4551 231.60742 9136.4551 A 2 2 0 0 0 234.4043 9136.877 A 2 2 0 0 0 234.82617 9134.0801 C 234.82617 9134.0801 231.41082 9129.4497 227.46289 9124.4531 L 229.03516 9123.4844 A 2 2 0 0 0 229.6875 9120.7324 A 2 2 0 0 0 228.44727 9119.8359 A 2 2 0 0 0 226.93555 9120.0801 L 224.94141 9121.3086 C 223.09109 9119.0375 221.25176 9116.8679 219.66602 9115.1875 C 218.70281 9114.1668 217.84681 9113.3304 217.04492 9112.7051 C 216.64398 9112.3924 216.26982 9112.1266 215.76758 9111.9102 C 215.51646 9111.802 215.169 9111.6726 214.76172 9111.6465 z M 193.95312 9114.4746 C 193.39851 9114.4654 192.83656 9114.4935 192.27734 9114.5742 C 191.15891 9114.7354 190.05024 9115.1024 189.0293 9115.7852 C 186.98742 9117.1506 185.67332 9119.7134 185.4668 9123.2051 C 185.24486 9126.9575 187.34763 9129.7624 190.01367 9131.1523 C 192.67971 9132.5423 195.83972 9133.0241 198.81836 9133.5371 C 201.797 9134.0501 204.59431 9134.6061 206.20117 9135.4941 C 207.0046 9135.9381 207.48609 9136.4021 207.77539 9136.957 C 208.06469 9137.512 208.22449 9138.2451 208.04102 9139.4707 C 207.6465 9142.1061 206.82099 9142.8975 205.80859 9143.3184 C 204.7962 9143.7392 203.15354 9143.6612 201.36914 9143.127 C 197.80033 9142.0586 194.125 9139.4668 194.125 9139.4668 A 2 2 0 0 0 191.33398 9139.918 A 2 2 0 0 0 191.78516 9142.7109 C 191.78516 9142.7109 195.71995 9145.611 200.22266 9146.959 C 202.47401 9147.633 204.98384 9147.9943 207.34375 9147.0137 C 209.70366 9146.0327 211.47126 9143.5815 211.99805 9140.0625 C 212.27523 9138.2109 212.05175 9136.5086 211.32227 9135.1094 C 210.59279 9133.7102 209.41872 9132.7007 208.13672 9131.9922 C 205.57271 9130.5753 202.48027 9130.1093 199.49805 9129.5957 C 196.51583 9129.0821 193.64591 9128.5349 191.86328 9127.6055 C 190.08065 9126.6761 189.31521 9125.8723 189.45898 9123.4414 C 189.61818 9120.7498 190.38323 9119.6936 191.25391 9119.1113 C 192.12459 9118.5291 193.47969 9118.3536 195.05664 9118.5645 C 198.21054 9118.9861 201.64648 9120.8594 201.64648 9120.8594 A 2 2 0 0 0 204.37109 9120.1035 A 2 2 0 0 0 203.61523 9117.377 C 203.61523 9117.377 199.83314 9115.1694 195.58594 9114.6016 C 195.05504 9114.5306 194.50774 9114.4838 193.95312 9114.4746 z M 215.97852 9117.1914 C 216.26164 9117.4707 216.43694 9117.5956 216.75586 9117.9336 C 218.13288 9119.3928 219.80211 9121.3454 221.50781 9123.4258 L 216.86328 9126.2871 C 216.45796 9123.3284 216.11525 9120.3724 215.98633 9118.125 C 215.96363 9117.7296 215.98749 9117.5379 215.97852 9117.1914 z M 167.65039 9119.5664 C 167.50098 9119.5747 167.33837 9119.599 167.16016 9119.6465 C 166.43309 9119.8403 165.99471 9120.362 165.78906 9120.7168 C 165.58342 9121.0716 165.5118 9121.3466 165.45508 9121.6035 C 165.34164 9122.1174 165.32133 9122.5819 165.31641 9123.125 C 165.30641 9124.2112 165.40792 9125.5635 165.57812 9127.1602 C 165.91848 9130.3534 166.54569 9134.4789 167.23242 9138.5879 C 168.60589 9146.8058 170.21875 9154.9395 170.21875 9154.9395 A 2 2 0 0 0 172.56836 9156.5117 A 2 2 0 0 0 174.14258 9154.1621 C 174.14258 9154.1621 172.89718 9147.8237 171.66992 9140.7578 L 178.14453 9137.0254 C 183.15152 9143.7571 187.82031 9150.3691 187.82031 9150.3691 A 2 2 0 0 0 190.60742 9150.8516 A 2 2 0 0 0 191.08984 9148.0645 C 191.08984 9148.0645 186.56878 9141.6642 181.63281 9135.0156 L 184.24805 9133.5098 A 2 2 0 0 0 184.98438 9130.7773 A 2 2 0 0 0 182.25195 9130.043 L 179.2207 9131.7891 C 177.16356 9129.0679 175.14228 9126.4643 173.42969 9124.4023 C 172.342 9123.0928 171.38649 9122.0061 170.57227 9121.1992 C 170.16515 9120.7958 169.80441 9120.4642 169.39453 9120.1738 C 169.18959 9120.0286 168.97537 9119.8878 168.66016 9119.7598 C 168.42374 9119.6637 168.09863 9119.5415 167.65039 9119.5664 z M 149.85352 9123.7773 A 2 2 0 0 0 149.08398 9123.9082 A 2 2 0 0 0 147.92773 9126.4902 C 147.92773 9126.4902 150.42396 9133.0462 153.20312 9140.6504 C 151.01388 9141.8378 148.58344 9142.8878 146.28125 9143.7168 C 143.86079 9144.5884 141.61698 9145.2451 139.93359 9145.6953 C 139.80079 9145.3152 139.67148 9144.9343 139.53906 9144.5566 C 136.76846 9136.6541 134.13672 9129.4355 134.13672 9129.4355 A 2 2 0 0 0 131.57227 9128.2422 A 2 2 0 0 0 130.37891 9130.8066 C 130.37891 9130.8066 133.00516 9138.0053 135.76562 9145.8789 C 135.88139 9146.2091 135.99528 9146.541 136.11133 9146.873 A 2 2 0 0 0 135.43555 9148.7871 A 2 2 0 0 0 137.32031 9150.3574 C 138.16671 9152.8126 138.98672 9155.2227 139.69141 9157.3672 C 140.82395 9160.8136 141.68768 9163.7 141.90625 9164.7871 A 2 2 0 0 0 144.26172 9166.3535 A 2 2 0 0 0 145.82812 9163.998 C 145.49999 9162.3659 144.63882 9159.6085 143.49219 9156.1191 C 142.8196 9154.0724 142.04691 9151.8004 141.24805 9149.4805 C 142.99051 9149.0087 145.22325 9148.3495 147.63672 9147.4805 C 149.90128 9146.665 152.31577 9145.6981 154.60547 9144.5176 C 155.95025 9148.2521 157.28538 9152.0332 158.35938 9155.2617 C 159.59473 9158.9753 160.50137 9162.1097 160.66016 9163.1406 A 2 2 0 0 0 162.93945 9164.8125 A 2 2 0 0 0 164.61328 9162.5312 C 164.33104 9160.6987 163.41102 9157.77 162.15625 9153.998 C 160.99491 9150.507 159.54923 9146.4231 158.10938 9142.4375 C 159.77749 9141.2915 161.2731 9139.9895 162.44336 9138.4902 A 2 2 0 0 0 162.09766 9135.6816 A 2 2 0 0 0 159.29102 9136.0273 C 158.63616 9136.8663 157.73113 9137.6879 156.66797 9138.4766 C 153.99944 9131.1946 151.66406 9125.0645 151.66406 9125.0645 A 2 2 0 0 0 149.85352 9123.7773 z M 169.50781 9126.0078 C 169.81496 9126.3628 170.0134 9126.5495 170.35352 9126.959 C 171.91707 9128.8414 173.79542 9131.2533 175.72852 9133.8027 L 170.95508 9136.5547 C 170.36695 9132.9537 169.84376 9129.4303 169.55664 9126.7363 C 169.52364 9126.4268 169.53421 9126.2946 169.50781 9126.0078 z " />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';letter-spacing:0px;fill:#032c46;fill-opacity:1;stroke-width:0.999998"
+       x="569.08289"
+       y="18462.086"
+       id="text1891-1-0-3"><tspan
+         sodipodi:role="line"
+         x="569.08289"
+         y="18462.086"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;fill:#032c46;fill-opacity:1;stroke-width:0.999998"
+         id="tspan53829-1-5">Sỏa súq míy ba!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;line-height:1.1;font-family:Inter;-inkscape-font-specification:'Inter, Normal';fill:#032c46;fill-opacity:1;stroke-width:0.999998"
+       x="568.48285"
+       y="18556.086"
+       id="text1076"><tspan
+         sodipodi:role="line"
+         x="568.48285"
+         y="18556.086"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'SH Pinscher';-inkscape-font-specification:'SH Pinscher';text-align:center;text-anchor:middle;fill:#032c46;fill-opacity:1;stroke-width:0.999998"
+         id="tspan1074">.com/color_les</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 498.83707,17048.936 c 0,0 -0.80453,-5.322 -0.63369,-6.39 0.17085,-1.069 3.52713,2.542 3.52713,2.542 l 0.62143,-4.741 4.04033,5.739"
+       id="path596417" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 506.40248,17038.843 3.24873,5.741"
+       id="path596551" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 517.62909,17035.286 c 0,0 -5.08444,-2.929 -3.46858,3.677 1.61586,6.606 6.11358,-0.82 6.11358,-0.82"
+       id="path596553" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 522.90548,17031.83 c 0,0 -3.37534,0.779 -3.42026,1.649 -0.045,0.869 1.29936,4.173 2.18284,4.477 0.88348,0.303 3.89671,-1.819 3.89671,-1.819"
+       id="path596555" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 527.24189,17035.471 c 0,0 -2.82469,-3.081 -2.47211,-4.558 0.35257,-1.477 3.28889,-1.546 3.87765,-0.348 0.58876,1.197 -2.13656,2.695 -2.13656,2.695"
+       id="path596557" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 527.63531,17032.503 2.58306,0.783"
+       id="path596559" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 520.84311,17035.835 1.92488,-0.926"
+       id="path596561" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 530.17323,17028.248 2.4878,4.713"
+       id="path596676" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 532.52723,17027.216 2.92528,5.287"
+       id="path596678" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 535.97423,17025.889 c 0,0 -0.3215,2.935 -1.1421,4.245 l 3.65059,0.758"
+       id="path596680" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 537.8118,17025.42 2.93684,1.979 0.28926,-4.113"
+       id="path596682" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 540.74864,17027.399 1.36639,2.736"
+       id="path596684" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 549.58755,17026.097 c 0,0 -1.58874,-5.703 -0.81482,-6.4 0.77391,-0.698 5.07232,4.301 5.07232,4.301"
+       id="path596686" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 552.87284,17017.69 c 0,0 1.92373,5.472 2.76309,5.336 0.83938,-0.136 2.95321,-2.501 2.95321,-2.501"
+       id="path596688" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 548.89401,17023.495 3.06438,-1.748"
+       id="path596690" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 563.7327,17018.368 c 0,0 -2.06522,1.759 -2.93973,1.847 -0.87451,0.09 -2.9094,-4.805 -2.9094,-4.805 l 2.95224,-1.843"
+       id="path596692" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 559.40733,17018.104 1.50644,-1.482"
+       id="path596694" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 565.61695,17017.717 c 0,0 -2.52196,-4.381 -2.49453,-5.185 0.0274,-0.805 3.35556,-1.761 4.39082,0.249 1.03526,2.01 -2.86224,2.692 -2.86224,2.692"
+       id="path596696" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 566.49098,17014.746 2.39586,1.217"
+       id="path596698" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 570.5911,17015.302 c 0,0 -1.24607,-6.267 -0.71858,-6.493 0.52751,-0.228 4.75469,4.536 4.75469,4.536"
+       id="path596700" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 570.23542,17013.219 2.4156,-1.714"
+       id="path596702" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 578.04555,17011.783 c -0.76544,0.441 -1.86866,-0.136 -2.60427,-0.753 -0.7356,-0.612 -1.17382,-1.471 -1.35408,-2.331 -0.18024,-0.858 0.0564,-1.873 0.86028,-2.222 0.80386,-0.348 1.60808,-0.118 2.28025,0.483 0.67216,0.6 1.42553,2.039 1.47911,2.829 0.0536,0.791 0.10415,1.553 -0.66129,1.994 z"
+       id="path596704"
+       sodipodi:nodetypes="zzzzzzz" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 577.11181,17009.924 c 0,0 2.74539,1.87 4.27958,1.533"
+       id="path597507" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 578.52756,17005.027 4.4351,-2.329"
+       id="path597509" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 580.71533,17003.952 2.50785,5.268"
+       id="path597511" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 584.09459,17002.241 3.53069,2.056 -0.13426,-3.987"
+       id="path597513" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 587.62528,17004.297 1.36946,2.714"
+       id="path597515" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 612.5901,12399.779 c 0,0 -1.07029,-7.097 -0.84302,-8.521 0.22729,-1.425 4.69226,3.39 4.69226,3.39 l 0.82671,-6.322 5.37499,7.653"
+       id="path596417-3" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 622.65462,12386.32 4.32189,7.656"
+       id="path596551-6" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 637.58975,12381.577 c 0,0 -6.764,-3.905 -4.61436,4.903 2.14963,8.809 8.1331,-1.093 8.1331,-1.093"
+       id="path596553-7" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 644.60911,12376.969 c 0,0 -4.49032,1.039 -4.55008,2.199 -0.0599,1.158 1.72858,5.564 2.9039,5.97 1.17533,0.404 5.18393,-2.426 5.18393,-2.426"
+       id="path596555-5" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 650.37799,12381.824 c 0,0 -3.75778,-4.108 -3.28874,-6.078 0.46904,-1.97 4.37533,-2.062 5.15857,-0.464 0.78325,1.596 -2.84234,3.594 -2.84234,3.594"
+       id="path596557-3" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 650.90137,12377.866 3.43633,1.044"
+       id="path596559-5" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 641.86547,12382.309 2.56074,-1.234"
+       id="path596561-6" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 654.27765,12372.192 3.3096,6.285"
+       id="path596676-2" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 657.40925,12370.816 3.8916,7.05"
+       id="path596678-9" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 661.99491,12369.047 c 0,0 -0.4277,3.913 -1.51937,5.66 l 4.8565,1.011"
+       id="path596680-1" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 664.43949,12368.421 3.90698,2.639 0.38481,-5.484"
+       id="path596682-2" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 668.34647,12371.06 1.81775,3.649"
+       id="path596684-7" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 680.10517,12369.324 c 0,0 -2.11356,-7.605 -1.08398,-8.534 1.02955,-0.931 6.74787,5.735 6.74787,5.735"
+       id="path596686-0" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 684.4757,12358.114 c 0,0 2.5592,7.296 3.67583,7.115 1.11666,-0.181 3.92876,-3.335 3.92876,-3.335"
+       id="path596688-9" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 679.18253,12365.854 4.07665,-2.331"
+       id="path596690-3" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 698.92294,12359.018 c 0,0 -2.74744,2.345 -3.91083,2.463 -1.16339,0.12 -3.87047,-6.408 -3.87047,-6.408 l 3.92747,-2.457"
+       id="path596692-6" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 693.16875,12358.666 2.00407,-1.977"
+       id="path596694-0" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 701.42962,12358.15 c 0,0 -3.35505,-5.842 -3.31856,-6.914 0.0365,-1.074 4.46401,-2.349 5.84126,0.332 1.37724,2.68 -3.80774,3.589 -3.80774,3.589"
+       id="path596696-6" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 702.59237,12354.188 3.18729,1.623"
+       id="path596698-2" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 708.0469,12354.929 c 0,0 -1.65769,-8.356 -0.95596,-8.658 0.70177,-0.304 6.32533,6.049 6.32533,6.049"
+       id="path596700-6" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 707.57372,12352.152 3.21356,-2.286"
+       id="path596702-1" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 717.9638,12350.237 c -1.01829,0.588 -2.48594,-0.181 -3.46455,-1.004 -0.97859,-0.816 -1.56157,-1.962 -1.80137,-3.109 -0.23978,-1.144 0.075,-2.497 1.14445,-2.962 1.06941,-0.465 2.13929,-0.158 3.0335,0.644 0.89419,0.8 1.89643,2.719 1.96771,3.772 0.0713,1.055 0.13855,2.071 -0.87974,2.659 z"
+       id="path596704-8"
+       sodipodi:nodetypes="zzzzzzz" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 716.72162,12347.758 c 0,0 3.65228,2.494 5.69326,2.044"
+       id="path597507-7" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 718.60504,12341.228 5.90016,-3.106"
+       id="path597509-9" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 721.5155,12339.795 3.33628,7.024"
+       id="path597511-2" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 726.01104,12337.513 4.697,2.742 -0.17861,-5.317"
+       id="path597513-0" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 730.70804,12340.255 1.82184,3.619"
+       id="path597515-2" />
+    <path
+       id="path600057"
+       style="color:#000000;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 629.09896,2371.8743 c -0.78443,0 -1.38446,0.3485 -1.81641,0.6817 -0.92148,0.7107 -1.43675,1.5823 -1.85742,2.3125 -0.42067,0.7302 -0.6914,1.3515 -0.6914,1.3515 a 1.75,1.75 0 0 0 0.90039,2.3067 1.75,1.75 0 0 0 2.30468,-0.9004 c 0,0 0.2001,-0.4573 0.51954,-1.0117 0.0988,-0.1717 0.18014,-0.2314 0.29687,-0.3985 0.19698,0.5514 0.44779,1.0338 0.62305,2.8926 a 1.75,1.75 0 0 0 1.90625,1.5781 1.75,1.75 0 0 0 1.57812,-1.9062 c -0.26268,-2.786 -0.59155,-4.4119 -1.49414,-5.666 -0.45129,-0.6272 -1.24648,-1.1903 -2.10937,-1.2364 -0.0539,-0 -0.10786,-0 -0.16016,-0 z m 21.34961,2.3496 a 1.75,1.75 0 0 0 -1.04883,0.2637 1.75,1.75 0 0 0 -0.55078,2.4121 l 9.27148,14.7598 a 1.75,1.75 0 0 0 2.41211,0.5508 1.75,1.75 0 0 0 0.55079,-2.4141 l -9.27149,-14.7578 a 1.75,1.75 0 0 0 -1.36328,-0.8145 z m -15.87109,6.5606 c -0.3466,0 -0.74178,0.081 -1.16016,0.3359 -0.71843,0.4374 -0.91926,1.0093 -1.05469,1.4492 -0.13543,0.4399 -0.18716,0.8545 -0.21875,1.3067 -0.0632,0.9044 -0.0195,1.9546 0.082,3.1621 0.20303,2.4148 0.65533,5.4201 1.16797,8.3847 1.02529,5.9293 2.29688,11.6817 2.29688,11.6817 a 1.75,1.75 0 0 0 2.08593,1.332 1.75,1.75 0 0 0 1.33204,-2.0859 c 0,0 -0.7341,-3.3269 -1.5293,-7.4903 l 6.80078,-7.6406 c 3.57281,2.9443 6.62695,5.6758 6.62695,5.6758 a 1.75,1.75 0 0 0 2.47071,-0.1387 1.75,1.75 0 0 0 -0.13672,-2.4707 c 0,0 -3.98696,-3.5676 -8.2461,-7 -2.12957,-1.7161 -4.32251,-3.3976 -6.17968,-4.6172 -0.92859,-0.6097 -1.76342,-1.1057 -2.55079,-1.4492 -0.39367,-0.1717 -0.77113,-0.31 -1.2207,-0.3847 -0.16859,-0.028 -0.35845,-0.053 -0.5664,-0.051 z m 1.08007,4.041 c 0.4124,0.2225 0.78376,0.4069 1.33594,0.7695 1.34205,0.8813 2.98622,2.1099 4.6582,3.4258 l -4.86523,5.4668 c -0.47886,-2.8006 -0.89291,-5.6089 -1.07227,-7.7422 -0.0682,-0.8118 -0.0602,-1.3654 -0.0566,-1.9199 z m -15.30664,3.3183 a 1.75,1.75 0 0 0 -1.55468,1.9258 c 0,0 0.99829,10.766 -2.08204,19.1465 -0.84719,-1.2496 -1.71618,-2.4723 -2.56835,-3.6387 -3.55751,-4.8692 -6.8418,-8.6601 -6.8418,-8.6601 a 1.75,1.75 0 0 0 -1.19922,-0.5996 1.75,1.75 0 0 0 -1.26953,0.4238 1.75,1.75 0 0 0 -0.17774,2.4688 c 0,0 3.19945,3.6922 6.66211,8.4316 3.46266,4.7394 7.15038,10.6426 8.07813,14.3164 a 1.75,1.75 0 0 0 2.125,1.2676 1.75,1.75 0 0 0 1.26758,-2.125 c -0.65204,-2.5821 -2.06635,-5.4533 -3.78321,-8.3106 0.61709,-1.2702 1.12953,-2.592 1.55469,-3.9316 l 10.74219,4.9023 a 1.75,1.75 0 0 0 2.31836,-0.8652 1.75,1.75 0 0 0 -0.86524,-2.3184 l -11.29101,-5.1562 c 1.72448,-8.0587 0.81054,-15.7227 0.81054,-15.7227 a 1.75,1.75 0 0 0 -1.92578,-1.5547 z m 53.44141,15.2793 c -0.49537,0 -0.94122,0.1355 -1.30664,0.295 -1.06305,0.4635 -1.74864,1.1836 -2.29492,1.7793 -0.54629,0.5956 -0.92383,1.1269 -0.92383,1.1269 a 1.75,1.75 0 0 0 0.41406,2.4395 1.75,1.75 0 0 0 2.43945,-0.4121 c 0,0 0.2578,-0.361 0.6504,-0.7891 0.21334,-0.2326 0.38411,-0.33 0.60546,-0.5078 0.13014,0.4269 0.36538,1.128 0.30078,3.0762 a 1.75,1.75 0 0 0 1.69141,1.8066 1.75,1.75 0 0 0 1.80664,-1.6895 c 0.0874,-2.6344 -0.0643,-4.2692 -0.83594,-5.5937 -0.3858,-0.6623 -1.06542,-1.2559 -1.84375,-1.4492 -0.24322,-0.061 -0.47795,-0.084 -0.70312,-0.082 z m 19.08594,4.8692 a 1.75,1.75 0 0 0 -0.44922,0.082 1.75,1.75 0 0 0 -1.12696,2.2031 l 5.10352,15.8086 a 1.75,1.75 0 0 0 2.20313,1.127 1.75,1.75 0 0 0 1.12695,-2.2031 l -5.10352,-15.8067 a 1.75,1.75 0 0 0 -1.7539,-1.2109 z m -15.32227,5.0605 c -0.2186,0 -0.45876,0.042 -0.72461,0.1368 -0.77302,0.2762 -1.11513,0.8415 -1.30664,1.25 -0.19151,0.4083 -0.27741,0.7792 -0.34766,1.1757 -0.14047,0.7932 -0.18348,1.6914 -0.18554,2.7266 -0.004,2.0703 0.17989,4.6505 0.42187,7.207 0.10933,1.1551 0.23057,2.2958 0.35352,3.3828 a 1.75,1.75 0 0 0 0.004,0.029 c 0.42028,3.7116 0.85351,6.6993 0.85351,6.6993 a 1.75,1.75 0 0 0 1.98438,1.4804 1.75,1.75 0 0 0 1.48046,-1.9844 c 0,0 -0.37596,-2.6011 -0.76171,-5.9082 l 4.90039,-6.2519 c 3.12506,3.3887 5.96093,6.7676 5.96093,6.7676 a 1.75,1.75 0 0 0 2.46485,0.2168 1.75,1.75 0 0 0 0.21679,-2.4649 c 0,0 -3.05679,-3.6499 -6.3789,-7.2304 -1.66106,-1.7903 -3.38397,-3.5613 -4.87696,-4.8926 -0.74648,-0.6657 -1.42495,-1.22 -2.08789,-1.6407 -0.33146,-0.2103 -0.65628,-0.3917 -1.05468,-0.5292 -0.24901,-0.086 -0.55169,-0.1761 -0.91602,-0.17 z m -12.95703,3.5801 a 1.75,1.75 0 0 0 -1.91602,1.5664 c 0,0 -0.96441,8.5942 -4.45703,15.4238 -0.36297,-0.8001 -0.73008,-1.5962 -1.0957,-2.375 -2.15346,-4.5868 -4.21484,-8.4277 -4.21484,-8.4277 a 1.75,1.75 0 0 0 -1.03516,-0.8476 1.75,1.75 0 0 0 -1.33398,0.1328 1.75,1.75 0 0 0 -0.71485,2.3691 c 0,0 2.02293,3.7718 4.13086,8.2617 2.10793,4.4899 4.27296,9.8912 4.55664,12.209 a 1.75,1.75 0 0 0 1.94922,1.5234 1.75,1.75 0 0 0 1.52344,-1.9492 c -0.23642,-1.9316 -1.02679,-4.3411 -2.03906,-6.873 0.74303,-1.1529 1.39752,-2.3635 1.97851,-3.5938 l 9.73242,5.2012 a 1.75,1.75 0 0 0 2.36914,-0.7187 1.75,1.75 0 0 0 -0.71875,-2.3692 l -10.02539,-5.3555 c 2.34138,-6.3467 2.875,-12.2597 2.875,-12.2597 a 1.75,1.75 0 0 0 -1.56445,-1.918 z m 13.94922,0.7852 c 0.25754,0.2066 0.43658,0.3169 0.73828,0.5859 0.7493,0.6682 1.61075,1.5125 2.50586,2.4258 l -2.98047,3.8047 c -0.18919,-2.1636 -0.32352,-4.2765 -0.32031,-5.8848 8.1e-4,-0.4064 0.0385,-0.6013 0.0566,-0.9316 z" />
+    <path
+       id="path605377"
+       style="fill:#232220;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 824.4201,14508.693 c -4.9934,0.06 -13.42692,2.761 -17.51673,5.573 -7.65138,2.064 -15.61224,6.026 -14.46102,8.906 4.91948,12.028 9.61675,24.126 14.48073,36.172 4.28102,11.614 9.40541,22.95 14.39744,34.33 3.27847,7.564 6.44333,15.17 9.52888,22.797 l 1.06534,2.429 c 0.50454,1.219 2.44077,1.627 5.03516,1.502 -3.38333,6.747 -6.5049,13.59 -9.82042,20.362 -3.58108,6.911 -7.31252,13.757 -10.89014,20.67 -3.37672,5.986 -5.6537,12.404 -8.88222,18.445 -1.09913,2.442 -2.16627,4.892 -3.21794,7.351 1.70497,5.318 29.84002,-1.842 28.13507,-7.16 0.99274,-2.394 1.92391,-4.81 3.04038,-7.162 2.7698,-6.127 5.29472,-12.353 8.53587,-18.303 3.62545,-6.911 7.43192,-13.745 10.89234,-20.724 3.64143,-7.356 6.85775,-14.873 10.52626,-22.219 4.75168,-9.433 10.27185,-18.486 16.11382,-27.418 5.18626,-8.883 9.88819,-17.955 14.6583,-27.019 4.62276,-8.398 9.27621,-16.784 14.80078,-24.75 -1.6426,-5.346 -29.92672,1.552 -28.28413,6.898 -4.80418,8.069 -9.23334,16.308 -13.70913,24.525 -4.92256,9.002 -9.61574,18.1 -14.7964,26.989 -0.70537,1.085 -1.39817,2.174 -2.0978,3.261 -1.3867,-3.047 -2.7775,-6.095 -4.11448,-9.16 -0.75775,-1.649 -1.50294,-3.301 -2.25345,-4.953 2.79675,-1.491 4.59954,-3.119 4.05312,-4.453 -4.14711,-9.375 -7.61903,-18.977 -10.59422,-28.699 -3.6204,-12.275 -7.38968,-24.517 -10.7937,-36.84 -0.39907,-0.977 -1.84128,-1.373 -3.83171,-1.35 z" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 618.11041,14155.573 c 0,0 -5.61553,3.976 -3.81964,10.243 1.79597,6.267 7.4615,-0.96 7.4615,-0.96"
+       id="path612773" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 622.1611,14153.02 c 0,0 2.34797,7.288 3.03962,10.05"
+       id="path612907" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 627.78296,14149.076 c 0,0 2.79172,7.923 3.21335,9.329"
+       id="path612909" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 623.367,14157.98 7.27396,-5.756"
+       id="path612911" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 631.50718,14147.832 c 0,0 2.42509,9.476 6.2266,6.435 3.80156,-3.041 -0.4834,-10.429 -0.4834,-10.429"
+       id="path612913" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 643.32359,14150.839 -3.75204,-8.276 8.72335,5.011 -3.6202,-8.156"
+       id="path612915" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 648.25343,14137.786 3.77131,8.235"
+       id="path612917" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 652.7057,14135.363 3.59814,8.14 c 0,0 5.32394,-2.927 3.43247,-7.292 -1.89155,-4.365 -7.03061,-0.848 -7.03061,-0.848 z"
+       id="path612919" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 665.21608,14129.51 -4.55601,2.299 3.60075,7.512 4.81847,-2.831"
+       id="path612921" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 662.02195,14135.103 3.08283,-1.299"
+       id="path612923" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 674.03068,14124.338 4.15035,9.812 c 0,0 6.44902,-2.662 4.83767,-6.567 -1.61133,-3.905 -7.34189,0.294 -7.34189,0.294 0,0 5.19937,-3.683 4.21512,-5.412 -0.98418,-1.727 -5.86125,1.873 -5.86125,1.873 z"
+       id="path612925" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 686.18115,14128.842 -1.29191,-10.304 7.38687,7.681"
+       id="path612927" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 686.02334,14125.337 3.11301,-2.316"
+       id="path612929" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 697.02627,14123.483 c -1.22987,0.59 -3.13513,-0.224 -4.20907,-1.114 -1.07388,-0.888 -1.77955,-2.268 -1.73104,-3.617 0.0485,-1.348 0.70373,-3.071 2.02535,-3.553 1.32156,-0.482 3.12523,0.592 4.07955,1.502 0.95426,0.91 1.39866,2.053 1.38747,3.285 -0.0112,1.232 -0.3224,2.908 -1.55226,3.497 z"
+       id="path612931"
+       sodipodi:nodetypes="zzzzzzz" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 695.90224,14120.635 c 0,0 4.51524,2.995 6.62934,2.066"
+       id="path613103" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 714.16413,14108.677 2.9992,8.795"
+       id="path613111" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 719.8523,14106.357 2.94447,9.123"
+       id="path613113" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 715.02156,14113.154 6.91743,-3.334"
+       id="path613115" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 710.80553,14110.553 c 0,0 -4.62801,-0.298 -4.54507,3.06 0.0829,3.357 7.65293,-1.038 7.99321,2.795 0.33999,3.831 -6.43353,2.733 -6.43353,2.733"
+       id="path613345"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 724.21213,14105.38 2.55932,8.341"
+       id="path613692" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 730.01624,14112.406 -0.23671,-9.816 7.30975,7.916"
+       id="path613694" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 729.83766,14109.495 4.116,-2.532"
+       id="path613696" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 742.98437,14108.145 c -1.41774,0.383 -3.12932,-0.434 -4.12335,-1.517 -0.99397,-1.081 -1.42554,-2.772 -1.16795,-4.264 0.25759,-1.491 1.13634,-3.484 2.66829,-3.826 1.53195,-0.341 2.75516,0.579 3.68871,1.711 0.93349,1.13 1.64109,3.271 1.39012,4.659 -0.25098,1.388 -1.03801,2.855 -2.45582,3.237 z"
+       id="path613698"
+       sodipodi:nodetypes="zzzzzzz" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 742.9595,14105.342 c 0,0 4.13897,3.211 6.00144,3.086"
+       id="path614372" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 745.79551,14097.452 7.4558,-2.198"
+       id="path614374" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 749.70302,14096.591 2.43394,9.005"
+       id="path614376" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 755.715,14094.611 2.59952,9.603"
+       id="path614378" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 763.90636,14092.37 -4.96567,1.256 2.60991,9.954 4.54683,-1.324"
+       id="path614380" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 760.2989,14098.479 2.96788,-1.386"
+       id="path614382" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 617.28598,14183.674 7.14654,-5.619"
+       id="path614384" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 620.77225,14181.319 1.78363,8.145"
+       id="path614386" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 631.73122,14174.541 -5.0441,3.511 2.53666,8.259 5.45713,-3.633"
+       id="path614388" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 627.91818,14181.748 2.69245,-1.734"
+       id="path614390" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 643.25195,14168.409 c 0,0 -7.05974,-0.378 -4.36502,6.957 2.69449,7.333 9.52596,0.522 7.48133,-3.224 0,0 -2.93346,0.712 -4.06235,1.813"
+       id="path614392" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 646.18901,14166.213 4.38757,7.853"
+       id="path614507" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 653.31841,14172.531 c 0,0 -2.41553,-9.487 -1.66318,-9.628 0.75251,-0.138 6.86779,6.224 6.86779,6.224"
+       id="path614509" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 652.41215,14168.465 2.84429,-2.587"
+       id="path614511" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 657.22578,14160.415 3.9134,7.53"
+       id="path614513" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 631.89629,14141.958 c 0,0 2.45187,-2.486 1.95675,2.295"
+       id="path614515" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 721.55693,14100.882 c 0,0 3.18356,-3.316 1.98723,2.196"
+       id="path614630" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 627.02093,14174.885 0.26595,-0.577"
+       id="path614632" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 628.84315,14173.81 0.2291,-0.586"
+       id="path614634" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 643.72529,14163.136 c 0,0 2.13197,-2.584 1.6882,1.28"
+       id="path614636" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 693.33358,14139.25 c 0,0 0.0455,5.68 1.49823,8.962"
+       id="path614751" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 697.62411,14136.555 c 0,0 -0.35974,4.814 1.62913,10.406"
+       id="path614753" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 695.66222,14150.349 0.36475,0.815"
+       id="path614755" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 699.96034,14149.137 0.34828,1.149"
+       id="path614757" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 667.4415,14164.284 -1.94934,-9.577 4.88878,3.696 0.55918,-6.694 5.35385,8.346"
+       id="path614872" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 677.87547,14159.338 -1.07893,-10.343 6.77203,7.158"
+       id="path614874" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 677.75659,14156.286 3.09734,-3.288"
+       id="path614876" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 687.83868,14154.074 c -1.30591,0.707 -2.51401,0.162 -3.51642,-0.754 -1.00238,-0.916 -2.09445,-2.84 -2.07285,-4.217 0.0217,-1.375 0.46763,-2.878 1.73286,-3.52 1.26524,-0.642 2.88047,-0.197 3.85394,0.659 0.97336,0.851 1.72568,2.386 1.75781,3.767 0.0322,1.38 -0.44943,3.358 -1.75534,4.065 z"
+       id="path614878"
+       sodipodi:nodetypes="zzzzzzz" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 687.55064,14150.81 c 0,0 3.96635,2.494 5.96244,1.531"
+       id="path615780" />
   </g>
 </svg>
